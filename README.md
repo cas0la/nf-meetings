@@ -40,7 +40,7 @@ git clone https://github.com/cas0la/nf-meetings.git ~/projects/nf-meetings
 mkdir -p ~/.agents/skills/nf-meetings
 
 # Copiar definição da skill
-cp ~/projects/nf-meetings/SKILL.md ~/.agents/skills/nf-meetings/
+cp ~/projects/nf-meetings/skill/SKILL.md ~/.agents/skills/nf-meetings/
 
 # Criar symlink (opcional)
 ln -s ~/.agents/skills/nf-meetings ~/.claude/skills/nf-meetings
@@ -83,23 +83,23 @@ Você: Externa
 
 [... skill coleta todas as informações ...]
 
-Skill: ✅ Ata salva em `atas/externas/cliente-x-2026-04-02.md`.
+Skill: ✅ Ata salva em `atas-reunioes/discovery_externa_cliente-x_nfe-builder_20260402-1400.md`.
 ```
 
 ## 📂 Estrutura de Arquivos
 
 ```
 nf-meetings/
-├── SKILL.md              # Definição da skill
-├── .templates/           # Templates de atas
+├── skill/                # Definição da skill
+│   └── SKILL.md          # Configuração da skill
+├── templates/            # Templates de atas
 │   ├── ata-template.md   # Template principal
 │   └── exemplo-ata.md    # Exemplo preenchido
 ├── docs/                 # Documentação
 │   └── guias/
 │       └── usando-atas.md # Guia detalhado
-└── atas/                 # Arquivos de atas
-    ├── internas/         # Reuniões internas
-    └── externas/         # Reuniões externas
+└── atas-reunioes/        # Arquivos de atas geradas
+    └── categoria_tipo_cliente_produto_funcionalidade-timestamp.md
 ```
 
 ## 🎯 Tipos de Reunião

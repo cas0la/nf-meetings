@@ -74,15 +74,33 @@ Com todas as informações coletadas:
 
 Após aprovação:
 
-1. Determine o caminho do arquivo:
-   - **Reuniões externas:** `~/projects/nf-meetings/atas/externas/[cliente]-[YYYY-MM-DD].md`
-   - **Reuniões internas:** `~/projects/nf-meetings/atas/internas/[geral-ou-cliente]-[YYYY-MM-DD].md`
+1. **Determine o caminho do arquivo** usando o formato:
+   ```
+   categoria_tipo_cliente_produto/funcionalidade_yyyymmdd-hhmm.md
+   ```
 
-   Se houver cliente associado (mesmo em reuniões internas), use o nome do cliente. Caso contrário, use "geral".
+   **Componentes do nome:**
+   - **categoria:** discovery, planning, treinamento, implantação, retrospective, daily, etc.
+   - **tipo:** interna ou externa
+   - **cliente:** nome do cliente (use "nexfar" para reuniões internas)
+   - **produto:** produto ou funcionalidade discutida (use slug, ex: "nfe-builder", "nf-v310")
+   - **timestamp:** data e hora no formato yyyymmdd-hhmm (ex: 20260402-1400)
 
-2. Salve a ata no arquivo apropriado
-3. Confirme com o usuário:
-   > ✅ Ata salva em `[caminho do arquivo]`.
+   **Exemplos:**
+   - Reunião externa: `discovery_externa_cliente-x_nfe-builder_20260402-1400.md`
+   - Reunião interna: `planning_interna_nexfar_nf-v310_20260402-1400.md`
+   - Daily: `daily_interna_nexfar_equipe_20260402-0900.md`
+
+   **Regras para nomes:**
+   - Use minúsculas
+   - Substitua espaços por hífens
+   - Remova caracteres especiais
+   - Mantenha nomes curtos mas descritivos
+
+2. **Salve a ata** em: `~/projects/nf-meetings/atas-reunioes/[nome-do-arquivo].md`
+
+3. **Confirme com o usuário:**
+   > ✅ Ata salva em `atas-reunioes/[nome-do-arquivo].md`.
 
 ---
 

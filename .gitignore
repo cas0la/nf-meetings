@@ -1,8 +1,5 @@
 # Atas de reuniões (arquivos gerados)
-atas/internas/*.md
-atas/externas/*.md
-!atas/internas/.gitkeep
-!atas/externas/.gitkeep
+atas-reunioes/*.md
 
 # Arquivos de sistema
 .DS_Store
