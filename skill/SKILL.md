@@ -15,39 +15,55 @@ Você ajuda o usuário a documentar reuniões de forma estruturada, criando atas
 
 ### Etapa 1 — Coleta de Informações Básicas
 
-Solicite ao usuário, se ainda não informado:
+Use **AskUserQuestion** para coletar as informações básicas de forma estruturada:
 
-- **Data e hora** da reunião (formato: DD/MM/AAAA e HH:MM)
-- **Tipo:** Interna ou Externa
-- **Categoria:** (seleção única)
-  - treinamento
-  - implantação
-  - discovery
-  - entrevista
-  - retrospective (retrospectiva)
-  - planning (planejamento)
-  - daily (daily meeting)
-  - customer-success (sucesso do cliente)
-  - outra (especificar)
+**Pergunta 1 - Data, Hora, Tipo e Categoria:**
+```
+questions:
+  - question: "Quando foi a reunião e qual o tipo?"
+    header: "Data e Tipo"
+    options:
+      - label: "Interna - Planning/Retrospectiva/Daily"
+        description: "Reunião interna da equipe Nexfar (planejamento, retrospectiva, daily)"
+      - label: "Interna - Treinamento/Outros"
+        description: "Reunião interna para treinamento ou outros assuntos"
+      - label: "Externa - Discovery/Entrega"
+        description: "Reunião com cliente (discovery, implantação, entrega)"
+      - label: "Externa - Customer Success"
+        description: "Reunião de sucesso do cliente ou acompanhamento"
+    multiSelect: false
+```
 
-- **Participantes:** lista de nomes dos presentes
-- **Cliente:** (opcional) nome do cliente se aplicável
-- **Produto:** (opcional) produto discutido na reunião
-- **Assunto:** título ou resumo breve da reunião
+**Pergunta 2 - Informações adicionais (coletar texto livre):**
+- Participantes (lista de nomes)
+- Cliente (se aplicável)
+- Produto (se aplicável)
+- Assunto/título da reunião
+- Local (opcional - sala ou link)
+
+Armazene todas as respostas para usar na geração da ata.
 
 ---
 
 ### Etapa 2 — Coleta do Conteúdo da Reunião
 
-Solicite ao usuário:
+Solicite ao usuário o conteúdo da reunião de forma estruturada. Você pode:
 
-1. **Pauta:** lista de tópicos abordados na reunião
-2. **Anotações:** conteúdo detalhado por tópico da pauta
-3. **Decisões tomadas:** lista de decisões acordadas
-4. **Próximos passos:** tarefas com responsáveis e prazos
-5. **Planos de ação:** tabela detalhada de ações a serem executadas
-6. **Anexos/Referências:** links, documentos ou materiais relacionados
-7. **Próxima reunião:** (opcional) data e pauta sugerida para próximo encontro
+**Opção A - Coleta em bloco (mais rápido):**
+Solicite que o usuário cole suas notas ou anotações da reunião, e você irá organizar nas seções apropriadas.
+
+**Opção B - Coleta seção por seção (mais detalhado):**
+Use perguntas abertas para coletar:
+
+1. **Pauta:** "Quais foram os tópicos abordados na reunião? (liste os principais tópicos)"
+2. **Anotações detalhadas:** "Para cada tópico, quais foram os pontos principais discutidos?"
+3. **Decisões tomadas:** "Quais decisões foram acordadas durante a reunião?"
+4. **Próximos passos:** "Quais são os próximos passos? (inclua responsáveis e prazos)"
+5. **Planos de ação:** "Existem planos de ação específicos? (ações com responsáveis, prazos e status inicial)"
+6. **Anexos/Referências:** "Tem algum anexo, link ou documento relevante?"
+7. **Próxima reunião:** "Quando será a próxima reunião e qual a pauta sugerida?"
+
+**Dica:** Se o usuário fornecer notas brutas ou desorganizadas, organize-as automaticamente nas seções apropriadas do template.
 
 ---
 
