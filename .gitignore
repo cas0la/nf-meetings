@@ -1,0 +1,19 @@
+# Atas de reuniões (arquivos gerados)
+atas/internas/*.md
+atas/externas/*.md
+!atas/internas/.gitkeep
+!atas/externas/.gitkeep
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
