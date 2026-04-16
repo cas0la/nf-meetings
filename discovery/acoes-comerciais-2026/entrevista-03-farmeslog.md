@@ -10,7 +10,7 @@
 | Nome | Empresa | Papel na entrevista |
 |------|---------|---------------------|
 | Lucas Casanova | Nexfar | PO / Facilitador |
-| Rafael Gazzola | Nexfar | CEO / Observador |
+| Henrique Begrow | Nexfar | PM / Observador |
 | Augusto Minzoni | Farmeslog | Cliente |
 | Guilherme Faria | Farmeslog | Cliente |
 | David Welber | Farmeslog | Cliente |
