@@ -1,0 +1,940 @@
+[Palestrante 3]
+A parte dos cupons a gente usa bem pouco, eu praticamente não uso, Thiago Esteves acho que fez alguns testes, não vale muito.
+
+[Palestrante 2]
+Entendi, entendi. Vocês dois são os responsáveis por criar essas ações então? Sim.
+
+[Palestrante 1]
+A gente adequa o formato que a indústria, ou o que a gente tem de promoção, de acordo com o que a gente tem disponível na Nextfire. Vai ter alguma coisa que a gente pode melhorar. Por exemplo, como você falou, não tem pergunta certa nem resposta errada.
+
+A gente pode falar várias coisas aleatórias que a gente vai distanciando. A gente está, não é que sofre, mas a gente, por exemplo, recebe um produto que é falta no mercado, não tem ninguém que tenha gravado receber. Só que para eu fazer uma ação vinculada a esse produto, ao nosso mix, eu tenho que colocar todo o nosso mix lá dentro e criar uma promoção flexível.
+
+Porque aí eu coloco mix, coloco... Só que a promoção flexível, ela deixa 250 SKU só.
+
+[Palestrante 2]
+A gente tem um limite, né?
+
+[Palestrante 1]
+E aí, se tivesse alguma coisa ao contrário disso. Por exemplo, eu vou colocar uma vitamina B12 injetável que é exclusiva, que não tem. Só que eu quero que o cliente compre 200 reais da linha da Navarro para comprar essa B12.
+
+Então, eu não vincularia o produto à ação. Eu colocaria o estoque no produto, entendeu? Alguma coisa assim.
+
+Isso é um exemplo da vitamina B12, mas tem outros produtos que acontece isso. E aí, a gente fica amarrado de colocar na indústria. Só que nós, como Navarro, como somos multimarca, a gente quer vender tudo.
+
+Então, eu quero ter um boi de piranha ou um produto que é exclusivo nosso, que aí falta no mercado. Eu quero que o cara compre independente de qual seja a linha. Então, a gente fica muito amarrado nisso, entendeu?
+
+[Palestrante 2]
+Entendi. E aí, no caso, então seria... Eu quero vender esse produto.
+
+Só que para o cliente poder comprar esse produto, para o vendedor poder oferecer esse produto, ele tem condições que ele precisa atingir para poder comercializar, para poder vender. E hoje vocês têm que colocar basicamente 250 SKUs, que é o limite da nossa plataforma. E aí fica difícil de configurar, até porque não dá para deixar também obrigatório.
+
+Não dá para deixar a compra do produto amarrada à quantidade ali.
+
+[Palestrante 1]
+É, e aí a gente faz a ponta ao contrário. A gente limita a quantidade sem ser mínimo, o mínimo do pedido. Então, por exemplo, 250 reais é o mínimo da distribuição.
+
+A gente coloca 100 reais a limitação desse produto e o cara põe mais 100 reais dos outros. Só que ele pode colocar um SKU. Aí acabou, arrebatou a nossa ação.
+
+[Palestrante 2]
+Que eu quero que ele coloque mais itens, entendeu? Entendi. É uma compra, digamos, direcionada.
+
+[Palestrante 1]
+Casada, né? Vamos usar como compra casada. Pode ser um produto de risco, que seja um produto de risco médio-alto.
+
+[Palestrante 3]
+Duas, três unidades já dá mínimo, entendeu? Então, também joga toda a estratégia por água abaixo.
+
+[Palestrante 2]
+Sim, sim, entendi. A gente comentou ali das ações e vocês falaram mais das flexíveis e das ofertas. O combo, vocês também costumam utilizar bastante?
+
+Sim, sim. O cupom mesmo que fica mais para trás, né? Não utilizamos.
+
+[Palestrante 1]
+O cupom, eu acho que é mais entendimento nosso. Eu falo por mim, acho que o Tiago tem o mesmo entendimento. A gente não conseguiu encaixar ainda isso dentro da nossa realidade.
+
+Quando a gente coloca um cupom tradicional, hoje a gente trabalha com margem. E a margem se torna apertada em relação a isso. E eu não tenho segurança de fazer.
+
+Ah, eu vou dar 2, 5, 10 no cupom que vai comprometer a minha margem. Aí até quando eu estava falando com o Pedro, nós falamos sobre cashback, por exemplo. Se ele comprar tanto, eu libero tanto para ele comprar de bonificação, alguma coisa gratidão, para ele comprar de outra coisa, de outro produto.
+
+O cupom é bom, só que eu não soube ainda como encaixar e divulgar isso para a equipe e equalizar esse negócio de margem. Eu fiz um teste com uma linha da Millie, mas eu não consegui importar os produtos também. Eu tinha que colocar um a um, manual, e aí é mais complicado.
+
+E aí como a gente trabalha com no mínimo 3.000 SKU, para eu colocar em pouca quantidade, em pouca grade, talvez fica fora. Ou talvez eu colocar numa indústria, numa indústria hoje tem no mínimo 100 SKU.
+
+[Palestrante 2]
+E colocar 100 SKU na mão fica mais complicado. E em relação a esse cashback, ele seria um cashback de uso imediato? Então, estou fazendo pedido, ou funciona como um cashback que a gente entende mesmo no mercado?
+
+Mediante ele enviar o pedido, ele ganha um saldo que ele pode comprar outras coisas depois.
+
+[Palestrante 1]
+Então, aí a gente tem que mergulhar mais sobre isso, mas é imediato. Por exemplo, ela comprou, já leva o cashback, no seu opinião, Thiago, para ser uma estratégia a mais para ele querer comprar, entendeu? Porque compra e venda, papai e mamãe já tem normalmente.
+
+Preço versus desconto, acabou. Agora, preço ou uma quantificação de cashback para ele já usar no próprio pedido. E a gente pode até usar como estratégia.
+
+Eu te dou cashback de outros produtos, só que esses produtos eu estou te mostrando quais são. É produto de novidade, é produto estratégico, é produto que eu preciso demandar. Eu consigo vincular isso cada vez mais na estratégia da distribuição.
+
+[Palestrante 2]
+Hoje a gente tem um tipo de cupom, ele surgiu no ano passado, mais recente. E eu acredito que conversa diretamente com essa realidade que vocês estão descrevendo, que é o Crédito Flex. Não sei se é ele que você tentou utilizar, que tentou testar.
+
+Não, eu testei o básico. Eu só testei aquele cupom de 5% na compra de tantos produtos. O Crédito Flex, ele basicamente é dessa forma.
+
+Você pode configurar direcionando para uma indústria específica, para uma categoria específica, ou importar uma lista de produtos. E você coloca a regra. Então, a cada mil reais do pedido, eu vou dar 100 reais para ele escolher entre os produtos.
+
+E aí basicamente o cupom cadastra a lista de produtos que não está disponível para ele usar esses 100 reais. Só que é no pedido.
+
+[Palestrante 1]
+Por que eu te falei assim? Eu acho que falta mais entendimento, a gente mergulhar mais com a ajuda de vocês. Porque a gente está muito oferta, promoção flexível e combo.
+
+É isso que a gente faz.
+
+[Palestrante 2]
+Você consegue mostrar aqui, Lucas? Claro, claro. Eu acho que também qualquer coisa a gente pode organizar com o Pedro do ICS.
+
+Para a gente ter essa... Ele passar um pouco com vocês sobre a ferramenta e tudo mais. Deixa eu só pegar aqui e abrir o...
+
+Está ruim para vocês o áudio desse jeito? Só onde vocês ficarem com o microfone aberto, a gente ouve os dois. Você está me ouvindo bem?
+
+Sim. Estou abrindo aqui o ambiente.
+
+[Palestrante 3]
+Eu não sei porque tem dois na mesma sala, um com cada batidor.
+
+[Palestrante 2]
+Está um do lado do outro ainda.
+
+[Palestrante 1]
+Se você fazer suas coisas, eu faço aqui. A gente vai subir por isso.
+
+[Palestrante 5]
+Eu vou sair aqui. Você consegue?
+
+[Palestrante 2]
+Sim. Vocês estão vendo aí? Sim.
+
+Só para a gente passar aqui rapidinho. Vou botar aqui o ambiente de teste. Vou botar um cupom em lote, só para a gente não precisar configurar isso.
+
+Eu tenho aqui o Credito Flex, que é o último cupom. Quando eu seleciono ele e boto para criar, aí eu tenho algumas configurações. Então aqui, crédito gerado pelo valor do carrinho.
+
+Eu posso colocar aqui, por exemplo, que 10% do valor do meu carrinho vai se transformar em crédito. Esse 10% é o valor com ST, sem ST? É o valor final do carrinho.
+
+Final? Isso. Então aqui é pedido.
+
+Aqui não preciso configurar nada necessariamente, é obrigatório. Aí aqui nos produtos, quando eu venho adicionar produto, eu posso adicionar, importar um arquivo, CSV, XLS. Eu posso pesquisar, aí é um a um.
+
+Então eu vou colocando ali o SKU e vou adicionando. Ou aqui no InLot. Eu posso botar se ele vai gerar crédito ou ser disponível para troca.
+
+O que o gerar crédito é? Se esse produto estiver no pedido, ele aplica a regra de gerar o crédito com base no valor daquele produto.
+
+[Palestrante 1]
+Então ele seleciona uma grade de produto e fala que se ele comprar uma de pirona, ele vai ter cashback de 10%. Exato. E aí se a de pirona estiver no carrinho que ele for passar, gera 10% de cashback para ele.
+
+[Palestrante 2]
+Exatamente. E aí aqui o disponível para troca seriam quais produtos com os quais ele pode adquirir usando o saldo. Então, por exemplo, vou colocar aqui critério, fabricante.
+
+Quero só os produtos da FarLab. Então quando eu adicionar...
+
+[Palestrante 1]
+Mas eu consigo só colocar o fabricante?
+
+[Palestrante 2]
+Pode botar fabricante, categoria ou até por tag.
+
+[Palestrante 5]
+Aqui no InLot.
+
+[Palestrante 1]
+Posso ser mais específico. Por exemplo, eu quero da FarLab e só o Agilce. Eu não quero todos os produtos.
+
+Eu tenho que criar uma tag no Agilce para...
+
+[Palestrante 2]
+Pode vir aqui e importar um arquivo só com esses produtos, que é da FarLab. Ou pode vir aqui no PurPesquisa e aí é manual. Eu posso desbotar aqui, procurar os produtos e aí ele vai me dar os produtos que eu tenho disponível.
+
+[Palestrante 1]
+Mas eu posso fazer uma ação assim. Eu dou cashback, sei lá. O Agilce vai dar cashback de 2% em todos os produtos da linha.
+
+Todos. Só que esse cashback ele só pode trocar em alguns produtos. Tipo, eu quero fazer o Agilce, eu tenho um monte de estoque e preciso trocar nele.
+
+[Palestrante 2]
+Eu consigo fazer isso? Sim, vamos fazer um exemplo aqui. Eu vou selecionar alguns produtos, independentemente da regra.
+
+Quando eu adiciono um produto aqui, o que eu tenho de informação? O gerar crédito é aquilo que eu mencionei. Quando eu ativo, eu estou dizendo que se esse produto estiver no carrinho, eu vou gerar crédito baseado naquela minha regra de 10% em cima do valor que esse produto tem ali dentro do carrinho.
+
+Então se ele botou... Digamos que uma ciclovira aqui custe R$ 1,50. Ele botou 10 unidades, atualizando R$ 15, vai gerar R$ 1,50 de crédito para ele usar ali na hora no carrinho.
+
+Outra pergunta. Ele vai pegar o preço da tabela ou o preço da oferta? Ele vai pegar o preço que tiver no carrinho.
+
+Se tiver aplicado a oferta, pega a oferta. Se tiver aplicado a tabela, ele vai pegar a tabela.
+
+[Palestrante 3]
+Tá bom. Aí só para tirar uma dúvida aqui, que ficou meio... Ele pega esses 10% em cima do preço líquido ou do preço já composto?
+
+[Palestrante 2]
+Do preço do imposto, preço final. Vai depender da regional, né? Porque se vocês não tiverem o imposto, ele vai pegar o preço...
+
+São Paulo deve ter crédito, Paraná, Minas e Rio tem ST, né? Tem. Então, por exemplo, vou dizer aqui que esses dois produtos geram crédito.
+
+Então só usando o exemplo ali. Se os dois produtos geram crédito, aí beleza. Ele colocou os produtos no carrinho, pegou o crédito com base no valor desses dois produtos.
+
+Eu posso definir os outros produtos aqui como disponível para troca. Quando eu coloco que está disponível para troca, quer dizer que com o crédito gerado por esses dois produtos, eu vou poder selecionar esses outros produtos aqui até eu esgotar o meu saldo. A questão é, se ele não usa esse saldo na hora do pedido, ele perde aquele valor.
+
+Isso é uma verba, né? É, quase como uma bonificação ali dentro de um valor fechado. É dentro do pedido, ele não acumula isso.
+
+Isso, esse é dentro do pedido. Mas acredito que pelo o que vocês estão me trazendo de realidade, um dos cenários pelo menos a gente atende com esse cupom, de poder selecionar os produtos.
+
+[Palestrante 3]
+Só a questão do seu preço final aí que complica.
+
+[Palestrante 2]
+A gente pode verificar aqui se existe alguma alternativa para parametrizar isso, mas eu confirmo e passo para vocês. Tá bom. Enfim, só para a gente poder voltar aqui então, para a gente seguir no nosso papo.
+
+Então hoje o cupom, de todos os cupons ali vocês acabam utilizando pouco, só o padrão mesmo. E esse cashback, esse crédito flex que a gente tem hoje é o que estaria mais aderente, pelo que eu estou entendendo, a realidade de uso de cupom de vocês.
+
+[Palestrante 1]
+É, mas a gente nunca usou, né? Então talvez eu testasse todas as manobras para tentar achar o ponto ideal. A gente tentou fazer, aí não deu certo, abandonou, entendeu?
+
+Aí vai no cotidiano. Vai ter que olhar de novo e fazer.
+
+[Palestrante 2]
+Beleza. E vocês trabalham com algum tipo de ação que seja exclusiva de bonificação? Por exemplo, se o cliente atingir tais regras, produtos aí, não estou falando de flexível nem de compra, ele está comprando os produtos ali mesmo na lista e mediante ele comprar um mínimo de 500 reais ele tem uma lista de bonificados que ele pode selecionar, por exemplo.
+
+Só dando um exemplo de como poderia funcionar. Vocês trabalham com algum tipo de ação nesse sentido? Isso, cara.
+
+[Palestrante 3]
+Algumas indústrias têm, mas é bem... Pontual. É bem pontual.
+
+Não é muito frequente, não.
+
+[Palestrante 1]
+É que a gente trabalha de forma diferente isso. A gente trabalha, por exemplo, um contrato de repasse. A gente entra nessa bonificação.
+
+Fecha um acordo com o cliente, o cliente comprou 10 mil no mês, ele tem uma bonificação de 2%.
+
+[Palestrante 3]
+Entra no mês seguinte, né?
+
+[Palestrante 1]
+É, aí apura toda essa compra e aí no mês seguinte já libera a bonificação com ele.
+
+[Palestrante 2]
+Entendi, é uma questão mensal.
+
+[Palestrante 1]
+Não pedido. Não pedido não porque se não tiver verba na indústria a gente acaba pagando duas vezes esse repasse. Entendi.
+
+Ele era um cara que já paga repasse de bonificação, então ele vai ter a bonificação do pedido mais a bonificação do mês. E aí sai só do lugar, sai da margem, não sai da operação.
+
+[Palestrante 2]
+E caso tivesse essa possibilidade, vocês não vêm com uma opção de deixar de ter a bonificação mensal e passar a trabalhar com a bonificação por pedido?
+
+[Palestrante 3]
+Não, porque ele tem que atingir um objetivo. E tem vários critérios, se tiver inadimplência na rede, margem, então tem outros critérios. A gente tem casos aqui que o cara tem o objetivo de comprar 100 mil reais no mês.
+
+Se ele comprar 99 mil, ele não ganha essa bonificação.
+
+[Palestrante 2]
+A bonificação está amarrada a uma meta de compra.
+
+[Palestrante 3]
+Se ele tiver inadimplência em alguma loja, ele também não recebe.
+
+[Palestrante 2]
+E essa bonificação é para o cliente, não é para o vendedor dar ao cliente, é para o cliente. Para o cliente.
+
+[Palestrante 3]
+A questão de bonificação é uma situação que o pessoal do TI estava até discutindo com vocês, mas acho que era com a Cláudia, de uma situação lá dos combos mesmo, que tem aquela situação de você poder bonificar um produto. E aí a gente vai passar a utilizar isso numa operação lá do Espírito Santa, mas acho que está mais agora na nossa parte de desenvolvimento para fazer alguns ajustes e a gente começar a usar. E aí sim a gente vai usar muito lá no Espírito Santa para uma operação específica.
+
+[Palestrante 1]
+E a gente não consegue fazer a bonificação dos mesmos produtos também. Ele não entra como venda, nem como bonificação.
+
+[Palestrante 3]
+Isso que eles estão mexendo.
+
+[Palestrante 2]
+Então a bonificação vai ser usada no combo, na flexível e a gente não vai mexer.
+
+[Palestrante 3]
+É, lá no combo. É porque está amarrada a bonificação.
+
+[Palestrante 5]
+Isso.
+
+[Palestrante 3]
+O que estava lá no impasse é porque vão ser situações que a gente vai vender e bonificar o mesmo produto. E aí quando o pedido estava entrando aqui para nós no ORP estava dando algumas inconsistências, aí o pessoal estava tratando.
+
+[Palestrante 1]
+Lucas, sabe uma situação que até comentei para a Angela no passado? A gente tem muito, muito, muito, muito grupo lá no NexFarm. Muito grupo anual.
+
+Muito, muito. É demais. E a gente não consegue saber quais são os grupos e o que está acontecendo.
+
+Então duas situações. Uma é relatório desses grupos que até o Pedro falou, que está desenvolvimento, beleza, legal. Outro ponto, até levei para a Angela para colocar a validade nos grupos.
+
+Por exemplo, eu crio um grupo agora. Ah, esse grupo vai ter quanto tempo? Ah, esse grupo vai ser só essa semana.
+
+Por exemplo, grupo de positivação. Normalmente a gente pega a primeira quinzena, analisa. Quem não tem positivação, a gente coloca climação sobre esses clientes que não compraram.
+
+Beleza. Acabou essa ação, teoricamente acaba o grupo. Só que não, fica lá.
+
+[Palestrante 2]
+Sim, acaba por aí na base.
+
+[Palestrante 1]
+Não que isso interfere, mas compromete a base de vocês aí. E a gente está sofrendo muito com lentidão de consulta. Ah, qualquer consulta que roda, fica demorando e tal.
+
+Então essa situação de grupo seria primordial para ter uma validade. Então com a validade acabou o negócio.
+
+[Palestrante 3]
+E a gente ter o relatório, principalmente, para saber quais clientes fazem parte daquele grupo ou quais vendedores fazem parte daquele grupo. Até para a gente poder saber assim, vamos manter esse grupo ou não, vou precisar realmente inativar ele, criar um novo, entendeu? Hoje não tem essa base.
+
+[Palestrante 2]
+Então, perfeito.
+
+[Palestrante 1]
+Outra coisa, Lucas. A gente, eu, não sei se o Thiago usa também, mas eu uso muito o côngulo flexível que limita o estoque. A limitação de estoque.
+
+Só que tem um problema. A cultura do nosso vendedor, ele não entra lá na promoção, porque é um ícone diferente para ele entrar, né? Ele não consegue identificar, e ele deixa de vender esse produto.
+
+Ele não consegue identificar lá. Aí a sugestão era, colocar essa limitação de estoque na oferta. Abrir uma aba lá na oferta, porque a oferta é muito mais dinâmica, muito mais rápida, e aparece no próprio cardzinho do produto.
+
+E aí, o companheiro vai vendendo, acabou, sai a aba fora do produto. Eu fiz com a promoção, alguns casos funcionaram, outros não, porque o cara não enxergava o produto. Aí eu falei, mas não tá aparecendo, não tá aparecendo.
+
+Mas por que ele não enxergava?
+
+[Palestrante 2]
+Porque tava sem estoque.
+
+[Palestrante 1]
+Não. Porque tava em promoção. Ele tinha que entrar na promoção e clicar o produto.
+
+Ah, tá, tá.
+
+[Palestrante 2]
+Uma dificuldade de visibilidade ali por causa da jornada.
+
+[Palestrante 1]
+Hoje a gente tem várias faixas de entrada e várias pessoas que têm várias possibilidades de acesso. Então, alguns não conseguiam clicar na promoção, colocar o produto e sair. Eles falaram, ah, tá dando erro, tá dando erro.
+
+E aí, às vezes, o cara abandona de fazer isso. E essa oferta, essa limitação de estoque, é interessante porque a gente faz muito promoção lá. Relâmpago.
+
+É só agora e a gente limita. Pra gente fazer isso hoje, eu tenho que tirar, entrar no SAP, criar um pedido, segregar estoque e aí depois liberação. Esconde o estoque.
+
+Esconde o estoque. Se tivesse essa ação já dentro da oferta, já facilitaria muito nossa situação.
+
+[Palestrante 2]
+Maravilha. Perfeito, perfeito. E até pensando no que vocês falaram, já sondar aqui uma outra possibilidade também.
+
+Vocês trabalhariam, ou vocês têm algum tipo de indicador pra ofertas ou promoções ou ações comerciais, de modo geral, de compra coletiva? O que eu quero dizer com isso? Há uns tempos atrás a gente ouviu alguns comentários...
+
+[Palestrante 5]
+Tem que puxar a janela aqui, Lu. Pode repetir isso, por favor.
+
+[Palestrante 2]
+Não, é sobre um possível novo tipo de ação comercial que a gente vem sondando. Outros parceiros comentaram com a gente sobre a possibilidade que seria quase uma compra coletiva, quase um grupão da vida. Eu tenho uma ação e eu preciso que mil clientes comprem.
+
+Se mil clientes comprarem, aí quem comprou recebe.
+
+[Palestrante 1]
+O Tiago Mendonça me falou, eu falei pro Rafael e pro Pedersen.
+
+[Palestrante 2]
+Minas Gerais tá fazendo já.
+
+[Palestrante 4]
+Esse gatinho aí surgiu do Tiago, Lucas.
+
+[Palestrante 2]
+Ah, tá. Eu não sabia que era do Tiago. Foi o Eric Bigrow que me repassou.
+
+[Palestrante 1]
+O Tiago pode até compartilhar a tela de como é o sistema da Distrimed aqui. O Tiago tem acesso. Ele vai compartilhar, ele não consegue passar o login e senha, mas ele vai compartilhar a tela, como que funciona.
+
+Agora. Como que tá agora os caras.
+
+[Palestrante 3]
+Inclusive tem uma situação de compra coletiva aqui.
+
+[Palestrante 1]
+Já rodou, tá vendo? Os caras estão vendendo álbum de figurinha.
+
+[Palestrante 3]
+Aqui, na verdade, eu acho que eles aproveitaram o sistema de compra coletiva só pra dar visibilidade pro álbum. Pra divulgar, né?
+
+[Palestrante 1]
+Pra divulgar.
+
+[Palestrante 3]
+Tem 400 horas de validade. E eles já estão rodando com isso desde o início do mês. É só pra ele ficar em destaque.
+
+Mas basicamente é isso, tá vendo? Aqui ele tem uma meta de 5 mil unidades. Vendeu 403.
+
+Atingiu 8%. Aí aqui, debaixo de 3.200 unidades, atingiu já 458.
+
+[Palestrante 2]
+É bem como um Groupon da vida mesmo. É, é exatamente isso.
+
+[Palestrante 3]
+E aí a gente pode ver outras situações aqui, por exemplo, tá vendo? Escalonado. Se o cara passar só o cursor aqui em cima já mostra quais são as faixas de preço e quantidade.
+
+Não precisa, igual o nosso, pro cara saber ou ele tem que arrastar a tela pra saber lá. Ou então colocar a quantidade até ele saber.
+
+[Palestrante 2]
+Aqui só passou o cursor. Já tem a visibilidade ali do escalonamento. Exato.
+
+[Palestrante 3]
+E aqui eles têm um sistema de cashback. Também. É que esse cliente aqui tá sem.
+
+[Palestrante 1]
+Isso já aparece logo? O cara entra no eletrônico?
+
+[Palestrante 3]
+Aqui tá vendo? Ele tem uma portaria 344. Quais são os controlados que têm escalonado ou que estão com preço competitivo.
+
+Ou que é estratégico. Que é estratégico. Antibiótico.
+
+Que aí agora vem sazonalidade de inverno. Então ele já começa a promover amoxilina, astromicina, cefalexina. Produtos que têm alta demanda.
+
+E os mais vendidos.
+
+[Palestrante 1]
+Essa visibilidade dos mais vendidos, eu falei com o Rafael e com o Pedro há um tempo atrás. Até comentei na última reunião com o Pedro que tá fazendo o acompanhamento. É interessante isso.
+
+Antes do cliente fechar o pedido, ele saber uma sugestão de compra pra ele.
+
+[Palestrante 2]
+Fazer um carcel ali, sim.
+
+[Palestrante 1]
+Porque hoje é fácil. O cliente compra o que ele quer e fecha o pedido do nosso sistema. Não tem nenhuma...
+
+Igual o Saiz faz com a gente. Ah, você comprou isso, mas as pessoas compraram isso. Você não quer comprar junto?
+
+[Palestrante 2]
+Tem um sistema de recomendação ali com base no que tá saindo, no que é aderente, o que é compatível.
+
+[Palestrante 1]
+E aí tem duas ou três tipos de recomendações. Mais vendidos na regional, mais vendidos pelo cliente e a estratégia da empresa. Colocar o mais vendido só pra divulgar esse produto.
+
+[Palestrante 3]
+Entendi. Esse aqui também é interessante. Produtos que voltaram pro estoque, que era o produto que possivelmente...
+
+É, que é o Abismo Milagroso. Ó, é esse aqui que você mencionou. Mais vendidos na sua região.
+
+Entendeu? O cara saber se é a estratégia dele, se o que ele tá comprando tem saída, tem demanda, ou se ele tá deixando de aproveitar.
+
+[Palestrante 2]
+A gente tem isso, a gente tem esses mecanismos, mas a gente tem lá no IC, né? Então tá na mão do vendedor. Aqui a gente tá falando de dar esse poder pra própria farmácia ter essa função.
+
+[Palestrante 1]
+Hoje a gente tá falando já da demanda de lavar, você sabe, né? 25% de eletrônico. Tem estado que é muito maior.
+
+Para nós ia ser 40, 50%. Quando a gente coloca uma ferramenta similar a essa, a facilidade vira maior ainda. Tem, com certeza.
+
+[Palestrante 4]
+São pontos bem interessantes pra gente acrescentar aí no digital pra poder ampliar o resultado.
+
+[Palestrante 1]
+Eu até falei, até nós falamos com o Pedro na última reunião, sobre, vem ser um produto digital, sobre, quando a gente lança uma oferta, como que o nosso cliente sabe? Se ele tiver conectado agora? Ele não vai saber.
+
+Ele não tem um pop-up, um alerta pra divulgar. Se o nosso vendedor não mandar alguma alâmina, se fizer alguma coisa. E aí eu sugeri pra Praia, Praia?
+
+[Palestrante 2]
+Pra Praia, sim.
+
+[Palestrante 1]
+Pra Praia e pro Pedro, quando tiver logado, eu sei que adesão talvez seja pouco, mas é uma informação.
+
+[Palestrante 2]
+Quem tiver... Novas ofertas no sistema, ofertas...
+
+[Palestrante 1]
+Quem tiver logado no sistema, ou o NexOn, ou o NexOff, receber um pop-up, tipo, uma oferta tá lançada, deseja visualizar agora? O cara clica ali, já vai aparecer. Porque hoje, as farmácias, 8 horas da manhã, o cara abre todos os eletrônicos e deixa a mapa lá.
+
+No final do dia, ele vai mandar o pedido. Se o nosso cliente tiver um pop-up, cada vez mais cliente, falou, pô, o Navarro tá me aguentando aqui, eu vou ficar olhando aqui.
+
+[Palestrante 2]
+Então, a gente tem que falar sem dizer uma palavra, né? Sim, sim. São os gatilhos ali pra ele ter essa visibilidade e ter mais chance de ter uma conversão num pedido de verdade.
+
+[Palestrante 1]
+E essa compra coletiva, eu acho interessante, mas tem que tomar cuidado com de ter, de lei de sistema. Ah, eu comprei, não foi, o cliente vai ficar, travou, travou, travou, cerra a palavra do mundo e é finito.
+
+[Palestrante 5]
+Sim.
+
+[Palestrante 1]
+Mas é uma ferramenta diferente. E acho que eles estão vendendo bem, porque o Tiago mostrou alguns produtos uma vez, que é um produto completo, porque a gente vende isso pra indústria. Vira uma ferramenta pra gente vender pra indústria.
+
+Ó, tem uma compra coletiva, vamos investir, você tem 100 mil unidades do nosso histórico, vamos investir 10 mil unidades aqui, a preço que não existe no mercado. E a gente coloca em vínculo.
+
+[Palestrante 3]
+Eles colocaram um produto uma vez que fez a gente apostar no produto, que era um produto que ninguém olhava, porque, cara, ninguém olha esse ômega 3 que é, tipo, 40% mais caro do que um ômega tradicional que a gente vende. Aí, pô, eles venderam muito rápido. Aí já, a gente acionou o ponto, falou, cara, tem que olhar pra esse produto aqui também, porque não é possível que vendeu rápido.
+
+Mas, assim, eles aqui, a Distrimed, pelo menos falando por Minas, é a distribuidora que mais tem investido em inovação pra questão de ferramentas de pedido, de pedido eletrônico, de portal. Eles têm um sistema de cashback aqui, esse cliente aqui, ou ele já consumiu, ou, como virou o mês, ainda não deve ter saldo, mas ele aparece bem no cantinho aqui. E aí tem umas ações aqui, ó, por exemplo, o cara pode vir aqui e usar o cashback dele pra bater na conta de luz, porque eles têm uma parceria lá com a SEMIC.
+
+O cara pode entrar na loja do Magazine Luiz e já trocar o valor do cashback dele por um...
+
+[Palestrante 2]
+Ele tem um sistema de parceiros ali onde ele pode usar esse saldo.
+
+[Palestrante 3]
+Se tem queijo, o cara consegue comprar, né? São Mineiros, então, tem que ter um queijo.
+
+[Palestrante 2]
+Pra... Importante, importante.
+
+[Palestrante 1]
+Mas é interessante, hein, esse da Maralu, porque o cara, quer comprar, sei lá, maior fries, só que não quer gastar o dinheiro.
+
+[Palestrante 5]
+Ele usa o cashback dele e já conta.
+
+[Palestrante 2]
+Isso é bem interessante pra gente também. Sim, isso é bom. Então, bacana, bacana.
+
+Muito legal. Obrigado por mostrar pra gente aí o sistema. Acho que deu bastante ideia, bastante insight.
+
+Pra gente... Se vocês não tiverem mais nada pra mostrar, a gente pode prosseguir aqui, de repente? Bora.
+
+Mais algumas questões em relação à frequência, recorrência dessas ações. Então, com que frequência, hoje, vocês têm que criar uma ação no sistema e quanto... Qual a durabilidade dessas ações?
+
+São ações que são muito mais ações relâmpago ou são ações de longa duração?
+
+[Palestrante 3]
+São várias situações, né?
+
+[Palestrante 1]
+Thiago, eu estava pensando aqui. Sabe o que a gente pode pensar? Desculpa te interromper.
+
+Hoje, nós adaptamos um formato que a gente tem de lista de preço negociado como oferta. Então, toda a nomenclatura, o Pedro mostrou isso de não sei quantas mil ofertas. Só que eu sei que...
+
+[Palestrante 5]
+Não é oferta, de fato.
+
+[Palestrante 1]
+Eu sei que não é oferta, de fato. No nosso caso da Navarro, a gente usou essa opção de oferta a nosso favor para criar uma tabela de negociação. E a gente criou uma tabela, criou um grupo vazio e vai colocando essas tabelas de negociação, de cotação.
+
+Enfim, talvez pensar numa condição B, condição especial, negociada, que a gente consiga fazer o mesmo formato da oferta, mas a nomenclatura diferente.
+
+[Palestrante 3]
+Só para a gente poder separar o que é o que.
+
+[Palestrante 1]
+Isso. Talvez a gente consiga até usar outros clientes, porque o cara tem uma tabela padrão, que é a tabela que ele recebe via integração do sistema, e criar uma tabela negociada. E aí ele consegue criar crivos de cliente dentro do próprio sistema de negociação.
+
+Pô, negociação A, são os clientes que me compram muito, então eu vou criar a tabela A. A outra é a tabela B, a tabela C. E aí foge de oferta, que é essa negociação.
+
+[Palestrante 3]
+Assim, vai até mais além, porque as tabelas, a gente cria elas, atualiza elas toda semana, uma vez na semana. Mas, por exemplo, se um vendedor ligar que mora no nosso comercial e pedir uma negociação para alguma das meninas, ela já vai cadastrar isso como uma oferta para ele. Entendeu?
+
+Para que ele consiga passar o pedido. Entendi.
+
+[Palestrante 2]
+Então, no caso, só para ver se...
+
+[Palestrante 3]
+Então, sei lá, o Pedro mostrou para nós lá, acho que 45 mil ofertas que a gente criou desde o março. E, na verdade, a gente deve ter criado uma 100.
+
+[Palestrante 2]
+O resto tudo é negociação.
+
+[Palestrante 3]
+O resto tudo é negociação, coisas pontuais.
+
+[Palestrante 1]
+É, aí... Desculpa, só para não perder o raciocínio. São algumas situações que estão acontecendo.
+
+Essa da tabela é uma, e aí, já aproveitando da tabela, talvez vincular valor. Ah, o cara me comprar essa tabela A, ele tem que comprar no mínimo 2 mil reais, 3 mil reais, enfim. Da tabela B, pode ser 500, e assim sucessivamente.
+
+E aí tem outra situação que eu estou usando muito no Paraná, que é... A gente procura caminho de rato, né, no sistema, para tentar facilitar. E aí, lá, os caras fazem o quê?
+
+Os caras criam um carrinho, me mandam o carrinho, e eu olho a margem do carrinho. Pô, o cara não tem verba, é cliente bom e tal. E aí, essa margem, tá beleza, tá aprovado, eu vou mandar.
+
+O cara tirou, fez o flex lá, trabalhou de um, tirou do outro, abaixou o preço, até não tem verba. E aí, essa margem está garantida. Eu consigo liberar nisso.
+
+Só que para eu liberar isso, tem que fazer o quê? Criar uma oferta. Criar essa oferta.
+
+[Palestrante 2]
+Entendi.
+
+[Palestrante 1]
+Aí eu falei para a Fraile e para o Pedro, até comentei com a Angela, na verdade. Falei, se você tivesse alguma situação de liberar o carrinho, aí com energia, tudo certinho, tudo amarradinho, pô, liberar o carrinho. Aprovar a negociação.
+
+Liberou o carrinho, cara, vai embora, vai direto. Eu sei que você tem a negociação hoje, que é um... Para nós, hoje, é nulo a negociação, porque é geração e criação de verba.
+
+Cria e gera verba automático, o cara só não fica negativo, é uma regra que os Estados Unidos caravaca. Mas esse do carrinho, está me ajudando muito a trazer muitos negócios. Porque o cara vai...
+
+A margem está boa, tá, então vou liberar. Aí eu faço o comercial, o comercial cadastra, para depois liberar o cara. Então é um comprometimento.
+
+Pode falar.
+
+[Palestrante 4]
+Mas essas liberações de negociação, elas são muito específicas, Thiago? Ou o cara tem meio que uma regra, assim, para...
+
+[Palestrante 1]
+Bateu isso, aprovou. É, hoje é assim. O que eu faço?
+
+Análise rápida. Tem produtos que a gente não pode negociar no pedido? Ah, não, não tem.
+
+Beleza. A margem deu acima de X? Deu.
+
+Ah, então vamos embora. Ah, qual que é o cliente? Ah, é cliente bom, pedido bom.
+
+[Palestrante 4]
+É avaliação realmente comercial. Depende de uma avaliação pessoal, então. Difícil automatizar essa avaliação.
+
+[Palestrante 3]
+Mas é um cliente estratégico. Sim.
+
+[Palestrante 4]
+Cada caso vai ter uma especificidade ali para vocês.
+
+[Palestrante 1]
+É um produto estratégico. Vocês tinham... A gente está com problema de alguns estoques, né?
+
+Ah, vamos liberar com margem 2, margem negativa, às vezes porque tem que mandar embora o produto. Só que para isso eu preciso cadastrar, tomar oferta para liberar. Aí, olha como que são as coisas.
+
+Preciso cadastrar uma oferta, criar um grupo com um cliente. Aí os grupos vão sobrecarregando.
+
+[Palestrante 4]
+Se a gente tivesse um fluxo de aprovação, aprovação de venda, aprovação de venda, aprovação de venda, sei lá.
+
+[Palestrante 1]
+Aí vocês fazem uma gourmetização do venda.
+
+[Palestrante 4]
+Exatamente. Criam o nome e, cara, cai para aí pela hierarquia para um de vocês.
+
+[Palestrante 1]
+Isso eu creio que ajuda muito na dinâmica das vendas. Porque o cara, ah, estou aqui no cliente, fiz negociação, só que não tenho venda. Pô, consegui alguma coisa.
+
+Tem que ver o que você consegue. Na hora, oh, está aprovado.
+
+[Palestrante 2]
+Eu até tenho uma dúvida sobre como vocês utilizam hoje, porque vocês utilizam oferta. Mas dentro da Navarro, os vendedores, eles também podem negociar o produto. E se eu tenho uma oferta...
+
+[Palestrante 3]
+Com flex, com flex, com a verba.
+
+[Palestrante 2]
+Sim, sim, com a verba. Se eu tenho uma oferta cadastrada que é uma oferta que, na verdade, era uma negociação, e ele negociar em cima disso com a verba dele, é possível? Então, depende da situação.
+
+[Palestrante 1]
+Esse caso dessas ofertas que a gente coloca, a gente coloca só no dia. Então o cara tem que mandar, fez hoje, tem que passar hoje. Ah, esse produto é um produto que pode gastar a verba.
+
+Então eu chego aonde eu consigo no mínimo, e daí pra frente ele gasta a verba dele. Nos carrinhos também pode acontecer do cara gastar a verba. Beleza, não tem problema nenhum.
+
+É, ele deu um e a mais. Eu preciso olhar o número final. Sim.
+
+Deu o número final? Beleza, eu vou liberar.
+
+[Palestrante 2]
+E ganha dinamismo na negociação, na venda, né? E essas ações, elas são bem mais dinâmicas. Botou hoje pra ser usada hoje.
+
+Mas vocês têm também ações que são recorrentes, que extrapolam até, por exemplo, o período do mês? Eu crio...
+
+[Palestrante 3]
+Pode ser que ela vá extrapolar o mês, porque começou na última semana e vai até a primeira quinzena, sabe?
+
+[Palestrante 1]
+É, eu crio ofertas de controlado, eu deixo o mês todo. Progressivo, eu deixo o mês todo. Aí tem ações semanais, ações diárias.
+
+Então são... Só que a gente não consegue medir isso, porque a gente não tem informação que prática, rápida, sabe? Vocês botaram o BI, só que eu não sei se a minha efetividade numa promoção de controlado tá sendo boa.
+
+Eu preciso montar uma informação interna pra ver se tá boa. Eu não tenho informação. Aí, além disso, a promoção foi boa?
+
+Qual que é a equipe que mais vendeu? Qual vendedor que mais vendeu? Quem não vendeu?
+
+Qual consultor que perdeu? Hoje a gente... Aí, voltando só, porque eu lembrei da DistriMed, quando os caras criam esse processo de compra coletiva, eles já têm a previsibilidade da venda, que é o que é mais difícil hoje no dia a dia da distribuição.
+
+O cara fala assim, vou vender 100 ômega. 100 ômega já vai me trazer 30 mil de venda. Ali vai trazer mais 40.
+
+Hoje a gente não consegue ter esse tipo de previsibilidade. Então, quando a gente cria uma oferta, eu crio com a nossa expertise de mercado. Só que eu não sei quanto que eu vou trazer disso, porque eu não consigo medir isso hoje.
+
+Então, eu quero chegar nesse ponto e falar assim, a minha oferta tem que trazer um mínimo de previsibilidade, sei lá, 200 mil, 300 mil, 50 mil. Eu quero ter isso, só que hoje eu não tenho isso. Até cobrar o gerente, o vendedor, o supervisor, quem seja.
+
+Porque para eu ter isso hoje, eu tenho que entrar no BI nosso, montar os cubos, e aí eu tenho. Hoje é muito histórico, então eu tenho que fazer isso.
+
+[Palestrante 2]
+Entendi, entendi. E, por exemplo, a gente tem alguns parceiros que eles têm ação Venda Mais Neoquímica, e essa ação, ela existe todo mês. Sim.
+
+Hoje vocês têm que criar... Falando sobre Venda Mais Neoquímica.
+
+[Palestrante 3]
+Chegamos na Neoquímica. A gente já facilitou...
+
+[Palestrante 4]
+Mas queria aproveitar também, cara, se pudermos, criar o escopo, porque acho que tem bastante reclamação também do tal do JBP do Grupo NC, é isso? Então... Um outro abrigado.
+
+Só para, tipo, talvez já botasse tudo mesmo em bala, tá?
+
+[Palestrante 1]
+Mas o JBP do Grupo NC, eu não sei os outros parceiros de vocês, mas eu consegui adaptar nas tags de cliente, nas tags de produto, porque é muito painel dedicado. Para a painel química, tá? É painel Venda Mais, painel PED, painel PA.
+
+Então eu criei a etiqueta dentro do cliente que é painel PED e que é painel PA. Então o vendedor já sabe, antes de ele vender, o que é painel PED, que está liberado a oferta, e o que é painel PED, que está liberado a oferta. Enquanto os dois, está liberado para todo mundo.
+
+E o JBP se encaixa nessa mesma situação, porque esse cara... O Grupo NC, eu quero... A Lei Grande quer ter uma base de 5 mil clientes, só que esses 5 mil clientes são clientes B, C e D.
+
+E aí o nosso vendedor tem dificuldade de vender. Aí quais são os clientes? Quais?
+
+Aí a gente criou a etiqueta. Facilitou. Mas ainda tem que ter um cara a execução, né?
+
+[Palestrante 2]
+Essa pergunta até surgiu. Está no...
+
+[Palestrante 4]
+Mas o Marques ia comentar alguma coisa sobre o... Ah, sim.
+
+[Palestrante 3]
+O Venda Mais me fez lembrar de uma outra situação, que a gente já tinha solicitado. Lá nas promoções, na promoção Flex, a gente tem a opção de editar ela para mudar a data. Era aí que eu ia chegar na pergunta.
+
+Por quê? O Venda Mais, geralmente, já tem um padrão de dias, né? Dias da semana.
+
+Ou é sexta-feira, ou é quinta e sexta. Tem semanas que são só na sexta, tem semana que é quinta e sexta, por exemplo. E aí a maioria dos produtos e condições não mudam.
+
+São as mesmas para aquele mês. Só que, por exemplo, se eu tenho uma promoção cadastrada que ela só vale para a sexta-feira, e a semana que vem ela vale para a quinta e sexta, eu preciso cadastrar ela toda novamente, porque eu não consigo editar ela só para mudar o dia da semana.
+
+[Palestrante 2]
+Perfeito. Era aí que eu queria chegar com a pergunta.
+
+[Palestrante 3]
+A gente já poderia deixar ela cadastrada o mês inteiro, e durante as semanas eu só vou lá e edito o dia que ela vai estar habilitada.
+
+[Palestrante 1]
+Perfeito. A gente consegue exportar uma dessa colocando o dia da semana. Sim.
+
+Mas daí, se é só na sexta?
+
+[Palestrante 3]
+Você cadastra na sexta, aí a semana que vem é quinta e sexta. Aí a semana que vem é quinta e sexta. Aí lascou.
+
+Lascou, entendeu?
+
+[Palestrante 2]
+Essa é a questão.
+
+[Palestrante 3]
+Não vai acontecer essa semana. O meu venda a mais foi sexta-feira passada. Essa semana é quinta e sexta.
+
+Então eu não podia ter deixado já cadastrado... Nesse caso até poderia, mas, por exemplo, quando ele volta para só na sexta...
+
+[Palestrante 2]
+Tem que criar outra. Eu tenho que criar outra. O intuito, na verdade, dessa pergunta é justamente...
+
+Eu usei o venda a mais neoquímica como um exemplo, mas é justamente entender com qual frequência que vocês têm que editar uma ação. Porque, por exemplo, digamos que a venda a mais neoquímica ela é todo mês. Eu cadastro ela uma vez e eu vou editando ela para sempre.
+
+Não preciso ficar criando a de abril, a de maio, a de junho e tudo mais. Hoje, para flexível, principalmente, a gente não tem essa possibilidade. A gente quer entender a frequência com a qual isso pode acontecer.
+
+Não só no venda a mais neoquímica, mas num contexto geral das ações.
+
+[Palestrante 3]
+Não sei como é o seu, mas, tipo, aqueles de pirona, o mirador, por exemplo, que são escala, eu cadastro aqui na flexível. Porque você pode juntar os dois produtos. Aí tem que cadastrar toda semana.
+
+Turcilax, entendeu? O de São Paulo é muito mais tranquilo. É bem mais tranquilo em relação a isso.
+
+Eu acho que é mais uma situação que ajuda muito, ajudaria muito a gente poder editar lá. Que, basicamente, é a venda a mais que consome esse tempo. E a neoquímica hoje é o nosso maior fornecedor aqui.
+
+Aí, naturalmente, vai ser o que mais nos consome tempo. E eles já mandam para a gente o calendário do mês inteiro. Então, no início do mês, a gente já sabe quais são as datas.
+
+Ou cadastrar tudo de uma vez, gastar um dia inteiro fazendo isso, ou toda semana ir lá e cadastrar as flexíveis ali. No caso da oferta, é tranquilo que a gente consiga entrar lá, computar e fica tudo certo.
+
+[Palestrante 2]
+É o próprio combo também, hoje em dia, editável. A flexível, realmente, que a gente está com essa limitação nesse momento. E uma outra dúvida em relação à integração dessas ofertas.
+
+Hoje também...
+
+[Palestrante 3]
+E aí, são coisas que vão desencadeando outras. Exato. Eu não cadastro só a oferta ou a promoção ali no Netsphere.
+
+Eu tenho que entrar depois lá num outro sistema nosso para cadastrar a rebaixo. O investimento que a neoquímica está pagando ali.
+
+[Palestrante 1]
+Isso é vinculado ao seu número.
+
+[Palestrante 3]
+É vinculado ao seu. Então, eu não posso cadastrar a rebaixo sem ter a oferta ou a promoção lançada na plataforma.
+
+[Palestrante 2]
+É aquele campo que a gente tem do ID, oferta, RP. ID, promoção, RP. E como que vocês cadastram isso hoje?
+
+Como é o formato de cadastro disso dentro desse sistema de vocês? É um RP? É um outro sistema?
+
+É uma outra plataforma.
+
+[Palestrante 3]
+E daí joga para o RP.
+
+[Palestrante 2]
+E essa plataforma intermediária, o formato, os campos, as regras, elas são as mesmas que a gente tem hoje na Nexfar ou são outras regras que você tem que fazer uma tradução meio que manual ali? Na verdade, a gente só usa o ID e a descrição da oferta.
+
+[Palestrante 3]
+Ou da ação comercial.
+
+[Palestrante 2]
+É só o intermediário mesmo.
+
+[Palestrante 3]
+A gente pega da plataforma da Nexfar só o ID e a descrição da ação comercial. Daí a gente usa outros arquivos para subir lá as rebaixos.
+
+[Palestrante 2]
+As regras de produtos dessa promoção, dessas ofertas, enfim, elas são próprias dessa plataforma e depois quando é vendida essa promoção lá no nosso sistema e isso cai para vocês, vocês relacionam isso via ID. É, isso aí. A mesma regra que a gente está cadastrando na Nexfar tem que ser cadastrada na plataforma, escalonada.
+
+[Palestrante 3]
+O que o pessoal do desenvolvimento fez aqui, basicamente eles copiaram aquele CSD que a gente tem que subir as ações comerciais para essa plataforma. As mesmas colunas que a gente preenche ali no CSD para subir uma oferta ou uma promoção a gente sobe lá também.
+
+[Palestrante 2]
+A diferença é que ao invés de eu subir o preço eu subo o valor da rebaixo. E se a gente tivesse isso integrado diretamente para o RP? Vocês veem como sendo mais vantajoso fazer esse fluxo e a gente escrever diretamente no RP de vocês essa promoção ou o caminho inverso?
+
+Vocês criariam essa ação dentro do RP ou dentro desse outro sistema e mandariam automaticamente para a plataforma da Nexfar? Eu acho que esse fluxo hoje está bom.
+
+[Palestrante 3]
+Se tivesse uma possibilidade de estar tudo na plataforma de vocês, era muito melhor.
+
+[Palestrante 2]
+Centralizar tudo num único...
+
+[Palestrante 3]
+Hoje funciona, está tranquilo, mas pode melhorar. Se tiver mais um campo ali que eu vou subir o valor do produto e quanto eu vou usar de rebaixo, de investimento da indústria...
+
+[Palestrante 1]
+No CAC da Neopímica, tem um site que a gente sobe ou venda mais para a equipe deles. No arquivo que foi criado para a gente importar tem a regra, igual a do Nexfar, porém no final tem o valor do rebate. Então, cada unidade você coloca o valor do rebate.
+
+Se conseguisse isso colocar dentro do seu sistema...
+
+[Palestrante 3]
+Porque, de alguma maneira, o valor que a gente cadastra de rebaixo volta para a plataforma. Porque quando a gente cadastra a oferta, tem a opção de você considerar a margem clicando no rebaixo.
+
+[Palestrante 2]
+Sim, perfeito. E aí, só para a gente fazer um condensar, que do meu lado, o que tinha mapeado a gente foi respondendo ao longo da nossa conversa, mas... Então, hoje, além dessa necessidade de ter que cadastrar em dois sistemas, mesmo que só puxando os campos de ideia e tudo mais, a maior energia, pelo que eu estou entendendo, que vocês gastam no dia a dia é justamente com essas ofertas relâmpago e com essas edições e essa criação de ofertas repetidas, porque eu não consigo editar ela.
+
+Qual oferta mais quer dizer? Promoção flexível? Como?
+
+De modo geral. Então, seria... o esforço está mais dedicado nessas duas frentes.
+
+[Palestrante 1]
+Sim, isso aí. E uma coisa que eu não sei como fazer, eu não sei se o Thiago tem a mesma ideia, mas o exemplo, como tem tabela que a gente cadastra como oferta e tem oferta que a gente cria com mais de um produto, ah, pronto, tem uma oferta 1, tem uma oferta 2. Se tivesse um alerta que mostrasse esse produto aí é oferta.
+
+Realmente, você queria cadastrar ele de novo? Alguma coisa nesse sentido. Porque...
+
+às vezes você cadastra várias ofertas e você tem um fluxo grande.
+
+[Palestrante 2]
+E elas se interpolam, como se sobrescrevendo ali. Exatamente.
+
+[Palestrante 1]
+E medição das ofertas, isso eu sinto muita falta. Passado de ser bem tão e tão distante, lá na oferta tinha os alertas, e no alerta mostrava a performance da oferta. Cliente, quanto vendeu, e tal.
+
+Aí acho que isso ficou sobrecarregando o sistema e vocês tiraram. Mas isso é importantíssimo pra gente trabalhar hoje com a efetividade das ofertas. Entendi.
+
+[Palestrante 2]
+Então, perfeito. Perfeito. Eu acho que...
+
+Tem muito trabalho. O objetivo da nossa conversa aqui é justamente explorar isso, quais são as lacunas, como é que é hoje a experiência de vocês, como é que é a jornada dessas ações comerciais dentro da Navarro e conversando com o sistema da Nexfar. Do meu lado, estou bem satisfeito com o que a gente coletou.
+
+A gente conseguiu falar de bastante coisa, de bastante coisa que a gente não cobre hoje. O sistema da DistriMedia, a gente ter visto como funciona alguns mecanismos também foi bem legal, a gente ter essa visibilidade. Ah, o Lucas, desculpa te interromper, mas as coisas vêm de lá.
+
+[Palestrante 1]
+Acho que o Thiago comentou isso esses dias. Como a gente coloca às vezes promoção progressiva e o cliente não enxerga conforme ele coloca o mouse, ele colocou 12, mas a caixa é 15. Se você colocar mais 3 unidades, você consegue um preço melhor, uma caixa fechada.
+
+[Palestrante 3]
+Não lembro se você me falou. Tem algum sistema algum pedido eletrônico que faz isso?
+
+[Palestrante 1]
+Já mediante até o que está cadastrado. Ou a oferta com escalonada, ou a caixa fechada, alguma coisa assim.
+
+[Palestrante 2]
+O famoso, ele está ali perto do tesouro, mas ele desistiu porque não tem essa visão.
+
+[Palestrante 4]
+E a gente deixou de vender. Esse alerta e aquela visualização rápida, esse click é pronta.
+
+[Palestrante 3]
+E um ponto interessante, falando até lá na DistriMedia também, mas não só DistriMedia, os outros também fazem. Eles colocam um menor preço para visualizar. Eu tenho lá uma escala de...
+
+Igual eu mostrei ali de um produto, que o menor preço dele é a partir de 60 unidades. Para o cliente já aparece o preço se ele tiver que comprar 60 unidades.
+
+[Palestrante 2]
+É a melhor condição lá, Gasola, que a gente estava desenvolvendo. Porque o nosso não, o nosso aparece o maior.
+
+[Palestrante 3]
+E muitas vezes o cara só olha ali e fala o Danavarro está 2,50 e o da DistriMedia está 1,99. Mas o meu também é 1,99 se ele comprar a mesma quantidade. Entendeu?
+
+Nesse exemplo que eu falei, que é até da Geolab, eles têm uma tabela padrão para todos os distribuidores. Então é todo mundo com o mesmo preço. Só que na hora de visualizar, o cara visualiza o meu 2,50 e o do cara é 1,99.
+
+E eu tenho esse 1,99.
+
+[Palestrante 4]
+Ele só não tem chojado. Basta a gente comunicar direito. É, exato.
+
+[Palestrante 1]
+Aproveitando, não tem nada a ver com a oferta, mas é uma situação que a tela é pessoal.
+
+[Palestrante 3]
+Deixa eu espelhar de novo a tela, que a gente já achou. Aqui, por exemplo, está vendo? Tem a situação de ele mostrar o menor preço.
+
+60. Mas se eu colocar aqui 55, ele vai falar que se eu adicionar mais 5, eu recebo uma caixa fechada. E aí, eu não vou me recordar aqui agora se era NAD, Streamedium ou em outro, que aí ele mostrava que para ter o melhor preço, era só colocar mais quantidades.
+
+[Palestrante 1]
+Tem uma situação que eu estive falando com o Pedro, com a Ângela, eu sei que não é fácil fazer isso, mas você já tem uma expertise junto com a FireLab. Hoje a gente faz integração de redes, integração de sistema, via SAP. E via SAP não tem as ofertas que tem na NextFire.
+
+Quando a gente faz uma integração de rede, a rede vai pegar o preço da nossa tabela. Preço cheio. A não ser que a gente faça algum trâmite dentro da SAP que é muito travado, muito morrosa, totalmente diferente da nossa realidade na NextFire.
+
+E aí eu estou provocando vocês várias vezes em relação a isso. Essa integração de redes, como que funciona? O cara tem uma uma van lá, XPTO, que ele gera um arquivo direto do sistema dele.
+
+Esse arquivo vem para a gente, a gente trata ele e manda para a nossa separação. O que seria? Seria a NextFire ficar nesse meio.
+
+Entrou, passa com a NextFire, pega o melhor preço do cara, ou a tabela, ou a oferta, ou... Volta o retorno para ele e entra para a gente como um pedido normal. Igual aí no NextOne, na EDI, a gente, enfim, inventa a nova ofertura.
+
+Só que isso facilita muito porque hoje as integrações que a gente tem de rede, os caras não têm as nossas ofertas de NextFire. A não ser o SmartPad que tem já direto lá. Mas é diferente.
+
+O cara cadastra, o cara tem o custo, agora tem rede com 10, 15, 20 lojas, até maiores, que não usam as nossas ofertas. E aí a gente não tem esse tipo de integração. Volto a falar, não é fácil, também não vejo um tubarão, um dinossauro, mas é uma coisa que talvez vocês possam aprensar, porque isso pode ser até um produto para vocês venderem para outros clientes.
+
+Você tem integração com rede? Tenho. Aí entende pelo pouco que eu tenho de conhecimento, é arquivo .txt. Então .txt é .txt e acabou. E tem redes que enviam de diário.
+
+[Palestrante 3]
+A gente tem aqui Carrefour, por exemplo, que passa pedido todo dia.
+
+[Palestrante 1]
+Carrefour todo dia? Para todas as regionais. A gente está negando a integração porque o cara quer uma tabela que a gente tem no NextFire.
+
+Então a gente nega a integração.
+
+[Palestrante 4]
+Até para simplificar isso, não sei se já te deram um spoiler, mas o projeto com a FireLab está em andamento. A gente já começou, a gente está desenvolvendo um caminho próprio para ter essas integrações sem precisar fazer uma a uma. Então a gente está começando com, aí em casa, me corrija se eu estiver errado, é porque o grupo está tocando o projeto, mas eu acho que a gente está começando já a validar o modelo com o Venâncio e uma outra rede do Rio de Janeiro, agora no Pacheco, Moderna, Nossa, drogaria!
+
+Puta, Pop! Se você quiser fazer algum tipo de piloto com a gente em São Paulo... Ah não, mas até a ideia, Tiagão, é que acabou que a gente vendeu o projeto para a FireLab, eles estão custeando o projeto, mas uma vez desenvolvida a mecânica, no dia seguinte a gente vai replicar para geral.
+
+Eu te garanto que vai melhorar muito, muito a performance. Isso que vocês trouxeram agora, é evidente que tem resultado, ou estamos perdendo venda ou poderia estar vendendo mais. Isso está em andamento, o cronograma, inclusive, para finalizar para a FireLab, acho que é para começar a rodar já em junho, com algumas farmácias testes, mas é para a gente finalizar, eu acho que eles fecharam o escopo de mais de 100 redes, e é para setembro isso, então está bem acelerado o projeto.
+
+[Palestrante 1]
+Se vocês quiserem um projeto talvez até melhor, para realmente fazer o nosso bem brilhante, com uma rede, vamos fazer com uma rede.
+
+[Palestrante 4]
+E assim, eles começaram com essas duas do Rio mais por relacionamento deles, mas é nacional, então certamente vai passar pelas mesmas redes que vocês atendem, então acho que a gente já deve ter novidade, provavelmente ainda agora, nesse início de segundo semestre, para poder fazer essa conexão.
+
+[Palestrante 2]
+Fechado. Feito. Você anotou tudo aí, Casanova?
+
+Sim, sim. Está tudo certo. Depois a gente vai sentar direitinho, eu e o Gasola, a gente vai analisar tudo o que a gente conversou com todo mundo.
+
+A gente esquece a metade, inventa mais um terço. 50% a mais, tira 50% de novo, fica no mesmo resultado, e é isso aí.
+
+[Palestrante 1]
+É isso aí. Beleza.
+
+[Palestrante 2]
+Beleza, gente, muito obrigado. Não sei se o Gasola tem mais algum ponto.
+
+[Palestrante 4]
+Não, não estou.
+
+[Palestrante 2]
+Valeu, valeu, turma. Obrigado pelo treino com vocês. Uma boa semana.
+
+Qualquer coisa, entre em contato.
+
+[Palestrante 4]
+Valeu, valeu. Da mesma forma, vocês tem o WhatsApp aí, é só dar um grito.
+
+[Palestrante 2]
+Valeu, gente.
+
+[Palestrante 4]
+Um abraço.

@@ -1,0 +1,244 @@
+[Palestrante 1]
+Bom dia, bom dia, Leandro, bom dia, Danilo. Bom, pessoal, para a gente iniciar aqui, o Rafael puxou essa agenda com vocês para que a gente possa explorar um pouco a realidade atual das ações comerciais, de como vocês utilizam os mecanismos de ações comerciais da Nexfar e como que vocês trabalham eles também internamente na Nexfarma para que a gente consiga mapear ali alguns cenários para que a gente possa trabalhar futuramente em melhorias e reconstruções de alguns mecanismos de ação, criação de novos também e por aí vai.
+
+Então, não existem respostas erradas, a ideia é que eu tenha algumas perguntas que a gente vai passando para nortear nossa conversa, mas sintam-se livres para trazer os comentários que vocês acharem mais pertinentes sobre justamente a realidade do uso dessas ações no dia a dia da Mix. Então, vou me apresentar, sou o Lucas Casanova, trabalho como gerente de produto na Nexfar. Vou estar conduzindo essa conversa e o Rafael vai participar aqui como observador.
+
+Também pode ser que ele entre com alguma questão ali se ele tiver alguma dúvida para tirar. Alguma dúvida? Não.
+
+Perfeito. Então, para a gente começar, pessoal, hoje a gente gostaria de entender quais das ações comerciais, hoje a gente tem quatro mecanismos disponíveis dentro da plataforma da Nexfar para criação e gestão das ações, que são as promoções flexíveis, os combos, as ofertas e os cupons. Quais hoje são as mais utilizadas pela Mix no dia a dia?
+
+[Palestrante 3]
+No dia a dia, o que a gente mais usa é as ofertas, aí depois vem a flexível, combo, e depois vem o cupom que a gente não está utilizando.
+
+[Palestrante 1]
+O cupom que vocês não utilizam, então?
+
+[Palestrante 3]
+Isso. Acho que a gente tentou utilizar uma vez, mas eu não sei como... Acho que foi o Felipe até, mas eu não...
+
+Mas eu não sei como ficou, não.
+
+[Palestrante 1]
+Você saberia dizer por que vocês acabam não utilizando os cupons? Não sei.
+
+[Palestrante 2]
+Eu acho que é porque a gente já não tinha... Essa ferramenta é nova, então a gente nunca a utilizou até no sistema anterior. Como combo, flexível e oferta, a gente já usava no sistema anterior.
+
+Então, assim, o cupom é novo para a gente. Foi feita uma tentativa, acho que foi no período do carnaval, eu não acompanhei a operação, mas eu vi a movimentação, porque tiveram alguns probleminhas, que até não foi nem aqui internamente que foi cadastrado, foi até pelo suporte do Nexfar que foi feito o cadastro. Eu não sei o que foi que aconteceu aí, teve algum problema.
+
+Quem saberia explicar melhor é o Felipe Pereira, que estava envolvido. Então, assim, eu acho que essa questão do cupom é um diferencial. Se eles tentaram fazer, e foi especificamente em umas ações pontuais, porque foi no período do carnaval, já que a gente não estaria ativo, então deixou para a equipe do e-commerce ter direito a esse cupom.
+
+Então, assim, eles viram que é viável. Tiveram ali uns probleminhas, mas eu acho que, assim, no segundo momento seria bom rever com o Felipe essa situação.
+
+[Palestrante 1]
+Perfeito. O próprio e-commerce, para vocês, é algo muito novo ali, que foi implementado mais recentemente. Então, como o cupom é exclusividade do e-commerce, vocês não acabaram tendo tanto contato quanto com os outros tipos de oferta que, como vocês falaram, já utilizavam.
+
+E aí, para a gente entender um pouco mais das ofertas que vocês trabalham, hoje vocês têm algum tipo de oferta ou ação comercial, de modo geral, que seja voltada apenas, exclusivamente, para bonificações? Por exemplo, eu crio um conjunto de regras e, se o meu cliente atingir, ele pode escolher dentro de uma lista de produtos bonificados. Isso a gente não tem ainda na plataforma, a gente está só andando a possibilidade, e não seria dentro de uma flexível ou do combo que a gente tem a possibilidade de bonificar.
+
+A gente está falando de uma ação nova, exclusiva para regras de bonificação. Faz sentido para vocês? É algo que vocês trabalham hoje fora do sistema?
+
+Como que é essa realidade?
+
+[Palestrante 2]
+Faz sentido. E, assim, até para você falar de bonificação, até assim, pelo formato que a gente tem hoje, a gente até identifica uma dificuldade. Porque é o seguinte, quando você associa um produto e o bonifica, a bonificação fica atrelada ao preço da tabela negociada.
+
+E a gente fica impossibilitado de definir o preço para aquele item bonificado. Porque hoje a gente trabalha diferente a bonificação. A gente não necessariamente...
+
+É o mesmo preço que a gente bonifica, é o mesmo preço que a gente vende. Mas teve um ajuste. Teve um ajuste?
+
+[Palestrante 3]
+Tem que cadastrar na promoção o preço, aquela tabela negociada no nosso sistema, e as bonificações seguem naquele preço.
+
+[Palestrante 2]
+Seguem naquele preço, mas é o Ricardo alterando lá?
+
+[Palestrante 3]
+A gente fica cadastrando no sistema Resulting.
+
+[Palestrante 2]
+No Resulting? Consegue puxar lá a bonificação com preço diferente? Isso.
+
+Ah, tá. Então eu não sabia, não, que tinha havido essa mudança.
+
+[Palestrante 3]
+Agora, tem uma ação que eu sei que tem da Neopimica, que é, se eu comprar, por exemplo, o Victor Silates, ele bonifica quatro Risco Jaxx. Se eu comprar 40, eles continuam os quatro, né?
+
+[Palestrante 1]
+Não tem uma questão de... Escalonamento.
+
+[Palestrante 3]
+Escalonamento, né?
+
+[Palestrante 1]
+Entendi. Entendi. E essas configurações de bonificação, vocês falaram que vocês fazem dentro do próprio Resulting, é isso?
+
+Escalonamento. Não, não só do escalonamento, mas a Liana já estava fazendo o cenário ali de que não funcionava, e aí você comentou que foi alterado no Resulting. Isso.
+
+[Palestrante 3]
+Porque antes o preço seguia a tabela negociada, estava no Let's Fly, e hoje a gente consegue definir o preço na promoção específica e na carta de preço.
+
+[Palestrante 1]
+Então vocês têm a mesma promoção cadastrada dentro do Resulting, com um preço específico, e quando a gente manda isso via Nextfly para vocês, um pedido que contém essa promoção, ou algo nesse sentido, ele sobrescreve o preço da nossa plataforma com o preço que vocês parametrizaram, correto? Isso. Entendi.
+
+Mas isso vocês usam dentro de flexível, dentro de como? Na flexível. E uma ação específica de bonificação, então, teria esse intuito também, por exemplo, poderia encaixar essa questão do escalonamento que você mencionou, ou vocês pensam em trabalhar isso realmente, manter dentro da realidade do combo e da flexível?
+
+[Palestrante 3]
+Eu acho que seria interessante ter uma configuração que ele acardasse isso. Todo produto que passasse a qualidade X, ele bonificasse. Tem uma promoção da Nelkin que eu consigo parametrizar lá dentro do Nextfly, mas pode ter outra promoção a par, tem que seguir essa regra no dia X, no dia específico, e o produto não está seguindo porque não está dentro da flexível cadastrada.
+
+Entendi, entendi.
+
+[Palestrante 1]
+E hoje, como que funciona, qual a frequência que vocês têm que criar uma nova ação e qual a duração dela? É muito frequente? Tem períodos específicos onde vocês cadastram em massa?
+
+São ações mais dinâmicas? São ações recorrentes? São ações que estão contínuas?
+
+[Palestrante 3]
+Diariamente, eu cadastro de ação. Como eu trabalho com muitos laboratórios, todo dia aparece uma nova ação para ser cadastrada.
+
+[Palestrante 1]
+E aí, no caso do combo e das ofertas, vocês cadastram na nossa plataforma ou vocês cadastram no Result?
+
+[Palestrante 3]
+Hoje, a gente cadastra no Result, que está conseguindo fazer o gerenciamento para a flexão.
+
+[Palestrante 1]
+E aí, integra com a nossa plataforma. Perfeito. E essas ações que têm durabilidade maior, por exemplo, você comentou ali da Neoquímica, não sei se seria o Venda Mais Neoquímico ou se é algum outro mecanismo que vocês têm com eles, mas normalmente elas são mensais, elas ocorrem ali todo mês.
+
+[Palestrante 3]
+Ela acontece geralmente uma vez ou duas vezes na semana, numa recorrência semanal.
+
+[Palestrante 1]
+Mas todo mês vocês têm essa ação acontecendo novamente. E hoje vocês têm que ficar criando, fizemos duplicatas dessas ações para conseguir alterar ali alguma regra. Isso.
+
+Vocês têm algum exemplo, ou até conseguiriam descrever com que frequência vocês precisam fazer essa duplicata, esse clone das ações simplesmente para editar ou alterar uma informação? No caso da Neoquímica, eu imagino que tem uma recorrência maior, mas as outras ações... É como, a gente criou essa ação aqui, agora a gente quer tirar esse produto, ou a gente quer alterar o preço dessa promoção, ou a gente quer alterar a data de vigência dela.
+
+[Palestrante 3]
+Eu acredito que em outros laboratórios a frequência é bem menor. Agora a Neoquímica realmente toda semana tem.
+
+[Palestrante 1]
+Toda semana acaba tendo essa necessidade. Isso. E vocês acabam tendo que fazer isso na mão, ali dentro do...
+
+[Palestrante 3]
+Como as flexíveis não estão integradas, aí tem que fazer no nosso sistema, tem que fazer também no...
+
+[Palestrante 1]
+Entendi. E no caso, vamos falar da promoção flexível em si, do processo de integração, que é algo que a gente está validando aqui internamente, avaliando. A gente sabe que já é uma solicitação também que a Mix já tinha trazido para a gente.
+
+Como que vocês cadastram, qual o formato de cadastro dessas promoções flexíveis dentro do Result?
+
+[Palestrante 3]
+É parecido com a NexFar. A gente define data, período, os produtos, qual a regra que vai seguir, se vai ser com o valor que é a fatora mínima, se vai circular a quantidade de produtos. É bem similar com os campos que a gente tem hoje.
+
+O único campo que a gente não tem no nosso sistema, que seria, no caso, para desenvolver, era a questão do mix de produtos. Essas são três, a NexFar.
+
+[Palestrante 1]
+Isso, no caso, vocês têm na NexFar e vocês não têm no Result essa possibilidade de imitar pelo mix.
+
+[Palestrante 3]
+Isso é, e no nosso Result a gente consegue optar um dos dois, ou fatura mínima ou quantidade. Na NexFar pode estar mais de um.
+
+[Palestrante 1]
+Perfeito. Até para a gente ter se mapeado, esses campos no Result, esse formato no Result, ele surgiu por causa de como vocês cadastravam na NexFar? Ou já era assim e calhou ali de ser compatível as duas regras porque é a prática que vocês já estavam acostumados?
+
+[Palestrante 3]
+Não, já foi por causa da necessidade das ações que já existiam. E quando chegou a Neoquímica com essa questão de quantidade, aí teve que ter implementação.
+
+[Palestrante 1]
+Entendi, entendi. Além dessa questão da integração, que hoje vocês precisam, na Flexível, criar em dois lugares, na questão da Neoquímica que vocês têm que toda semana ali faziam um clone para poder adequar uma configuração. Que processo hoje vocês identificam que toma mais energia, que toma mais tempo de execução ali no dia a dia e que poderia, por exemplo, daqui a pouco a gente tem uma etapa, uma jornada um pouco mais tranquila e direta?
+
+[Palestrante 2]
+Eu acho que é a questão do cadastro mesmo. Porque, por exemplo, hoje a gente tem a dificuldade da Flexível de a gente ter que cadastrar no Result e cadastrar dentro do NextFar. Porque lá atrás, essa necessidade houve, porque como a gente precisa da identificação do número da promoção que está vinculado àquela venda, aí por isso que houve o paliativo de cadastrar em um sistema e cadastrar no outro.
+
+Porque a intenção era que essa informação viesse diretamente e dentro da NextFar. Que a gente passasse a cadastrar todas as promoções dentro da NextFar. Porque como ela tem todas as ferramentas, todas as particularidades que a gente precisa, é óbvio que a gente preferia que lá tivesse todas essas toda a nossa necessidade.
+
+Que, no caso, como a gente tem a amarração de reposição, que é o chamado Spread, então a gente precisa dessa identificação do número da promoção. Então foi por isso que está a necessidade da gente ter que cadastrar dentro do resulto e por ser assim, vocês conseguiriam passar pra gente esse código. Porque aí um ia vincular com o outro e ia cair aqui pra gente.
+
+Então, assim, na medida do processo, aí vocês conseguiram essa homologação, né, que ele consegue ler e fazer essa leitura sem a gente cadastrar dentro do NextFar. Então ajudou muito quando foi liberada a oferta, foi liberado o combo. Só que aí a gente ainda está preso com a flexível.
+
+Como o Danilo falou, assim, a NeuQuímica, que ele é o exclusivo da NeuQuímica, ele demora praticamente o dia todo, porque tem que parar, se concentrar pra poder cadastrar em um sistema e cadastrar em um outro sistema. Por exemplo, não tem outro laboratório que trabalhe neste formato. Quer dizer, tem um que surgiu, que é pela quantidade que é o Legrand, surgiu, só que ele é o seguinte, não é que nem a NeuQuímica que toda semana tem ação e tem que cadastrar.
+
+Às vezes eles mandam uma ação que vai durar por dois meses, então eu só preciso cadastrar uma única vez. Então é menos complexo do que o do Danilo, mas a mesma forma precisa desse cadastro, nas duas plataformas, né? Então tem essa essa, eu acho que a nossa maior demanda é a questão do cadastro.
+
+Outra coisa, eu não me identifico.
+
+[Palestrante 1]
+Então hoje, pra combio e oferta, vocês cadastram no Result, ok, isso já facilitou, flexível, a gente tem essa marra ainda, e pelo que eu tô entendendo, pra vocês, se isso tudo fosse centralizado no Nexfar, e na verdade o Nexfar que escrevesse no Result, seria mais direto e mais coerente, certo? Entendi errado.
+
+[Palestrante 2]
+Isso. Seria uma Danilo aí que tá mais A ideia é a gente cadastrar no Result e replicar-se direto no Nexfar. É, o que a gente tem hoje.
+
+A gente já pensa no formato que a gente tem hoje, que é assim, como a gente já subiu o combo, já subiu a oferta, é que o que tá faltando é a flexível. E tem essas outras essas outras particularidades que a flexível, né, tem hoje dentro da Nexfar, que a gente até já falou com o nosso CRP, o Ricardo, que a gente também já explanou essa essa, esses adicionais, né, dessas ferramentas que facilita também o trabalho, e ele disse que não teria nenhum problema dele adaptar ao Result, né? Isso já sendo já disponibilizado dentro do dentro dessa integração, ele disse que só seria passar as informações pra ele, que ele iria tratar da mesma forma que ele tratou as outras demandas que ele teve que imputar também.
+
+Então, como a gente já tá nessa leitura, então isso já seria o nosso é, o nosso facilitador.
+
+[Palestrante 1]
+Sim, sim, perfeito. É, eu pergunto mais pra uma questão de centralização, né, se a gente centralizar toda a jornada dentro da Nexfar, e tenhamos os campos, e isso entrasse no RP, que seria uma jornada, digamos, inversa do que é hoje, se as caras entrariam no RP, e talvez tem que conferir na Nexfar, é, se vocês enxergarem como mais vantajoso.
+
+[Palestrante 2]
+Eu só abri só uma ressalva, porque, assim, você falou, de se a gente centralizasse tudo no Nexfar, seria ótimo, seria ótimo se eu tivesse todas as informações lá dentro da Nexfar. Por exemplo, eu tenho um gargalo hoje dentro da Nexfar, que se eu for puxar um relatório com todas as promoções que eu tenha lá dentro, eu não consigo, eu não tenho esse relatório. A importação da promoção, Danilo que me corrija, na importação a gente tem a dificuldade de importar todos os itens por algum código, o código do nosso produto, a margem, eu sei que a gente não tem a margem, toda vez que a gente vai importar algum produto, dentro do result, a gente já gera um relatório, já analisa a margem que a gente tem todas as informações, de preço, imposto, custo, então a gente tem a margem final, então quando a gente importa, a gente consegue gerar um relatório para que ele nos mostre se tem algum produto que está fora da margem, e a gente tem a opção de importar pelo preço, pelo markup, pela margem, pelo desconto, então assim, a gente também, se eu disser aqui, então é ótimo a gente botar tudo na Nexfar, a gente vai ter alguns gargalos que a gente já analisa dentro do result.
+
+[Palestrante 1]
+Entendi, então esse mecanismo de cadastro dentro do result tem campos que a gente não tem hoje para vocês fazerem essa verificação. Perfeito, perfeito. Em relação ao contexto geral de ações comerciais, além do que a gente já tem conversado, de integração, de flexível, da própria questão da edição, da ação, vocês têm outras melhorias que vocês têm em mente em relação a todas as ações, ou até mesmo ações que hoje a gente não permite serem criadas na plataforma e vocês têm que fazer algum tipo de adaptação, ou deixam de trabalhar dentro do Nexfar por não terem essa possibilidade?
+
+[Palestrante 3]
+Tem uma ação que eu acho que seria interessante ter no Nexfar, a gente não tem o resultado. Mas, tipo, às vezes a gente quer liberar um preço de um produto, porém os vendedores têm que passar a linha do produto, tipo, eu libero um tocilato lá no preço uma rebaixa, mas eu quero que traga a linha de neopímica, tipo, o computador às vezes reage a neopímica. E se o fisicô fazer isso, cadastrar, eu tenho que pegar todos os itens da neopímica, colocar um preço e poderia ser uma opção de ir lá mesmo e colocar, sei lá, o fornecedor, o valor e ele captar a linha dele.
+
+[Palestrante 1]
+Entendi, então no caso seria, por exemplo, se você comprar 300 reais de produtos dessa linha, você pode comprar esse produto aqui, senão a venda desse produto fica bloqueada, é isso?
+
+[Palestrante 3]
+Isso, é.
+
+[Palestrante 1]
+Entendi, entendi. Entendeu? E sobre uma possível ação, digamos, de compra coletiva, vocês trabalham com algum tipo de mecanismo nesse sentido?
+
+O que eu quero dizer com isso? Quase como o que a gente tinha nos sites, hoje não tem tanto acesso, mas Groupon, Peixe Urbano, que eu tenho uma oferta ali, digamos, relâmpago, que eu preciso que 2 mil clientes comprem para que ela possa ser efetivada, senão ela é cancelada e eu não faturo ela, não concluo a solicitação dela. Vocês trabalham com algum mecanismo nesse sentido?
+
+[Palestrante 3]
+Hoje a gente não trabalha, mas teve no fechamento do mês passado uma ação assim como você falou, que o sérgio, que é o nosso diretor, ele queria que tivesse mil unidades de vendida de tocilates para poder liberar um preço específico, né? Seria interessante ter essa oferta, essa promoção.
+
+[Palestrante 1]
+Entendi, perfeito. Em relação, então, a questão das ações, são só essas que vocês trabalham? Tem mais alguma?
+
+Tem mais alguma outra questão que vocês gostariam de avaliar?
+
+[Palestrante 3]
+Eu não sei qual eu acredito. No momento são só essas mesmo.
+
+[Palestrante 1]
+Perfeito. Não sei se o Rafael tem alguma outra questão.
+
+[Palestrante 4]
+Não, tranquilo, estou mais acompanhando, acho que faz sentido aí alguns pontos.
+
+[Palestrante 1]
+Só para vocês entenderem, a gente está justamente fazendo essas conversas para mapear algumas necessidades, a realidade de vocês no dia a dia com ações comerciais, o que vocês trabalham, o que vocês não trabalham, como está a experiência hoje na nossa plataforma. A gente está reavaliando uma reconstrução da funcionalidade como um todo, então a gente está sondando justamente para conseguir encaixar isso na rotina de vocês e tornar essa jornada um pouco mais direta, com menos fricções, com mais flexibilidade de configurações. Então, se vocês tiverem qualquer outro comentário que a gente não lembraram para trazer aqui, vocês podem passar para o Rafael, podem passar para mim, a gente passa o contato ali e fica o canal aberto para vocês sugerirem.
+
+Então, a partir dessa investigação, a gente vai começar a trabalhar justamente nessas melhorias, isso incluindo já, claro, as integrações possíveis de ação e também algumas alterações de jornada na configuração das regras, para que a gente consiga ter um caminho mais direto e satisfatório.
+
+[Palestrante 2]
+Tudo certo. Mais uma dúvida, com relação à flexível, essa que está pendente, da integração. Vocês já tem alguma preguição de quando é que ela vai aparecer aqui para a gente, para facilitar a nossa vida?
+
+[Palestrante 1]
+Certo, vamos lá. A gente tem hoje uma questão na flexível, que ela acabou não entrando junto com o combo e oferta, porque ela tem um pouquinho mais de dificuldade na questão dos mecanismos, as regras dela para a gente adaptar, para a gente garantir integridade de dados quando a gente edita uma ação. Mas a gente pretende colocar toda essa parte da integração junto com essa reformulação, que vai acontecer até o segundo semestre de 2026.
+
+Ainda vai levar um certo tempo, mas a gente vai trabalhar para colocar isso tudo junto e deixar a jornada de maneira mais redonda, tanto nas configurações como também na integração e edição e por aí vai.
+
+[Palestrante 4]
+A ideia é que a gente já esteja testando algumas versões entre maio e junho. A gente vai chamando vocês atualizados. É uma data também que eu passei para o Filipe, para o Sérgio e tal, da nossa expectativa aqui.
+
+Diálogo, viadra, vamos testar aqui um negócio, fazer isso, fazer aquilo e tal, porque a gente sabe que vão acontecer erros, natural, a gente vai cobrir um negócio e com o uso vai descobrir outros e tal, então a gente vai começar a ter alguma interação aí para quem sabe ter isso aí já em junho e rodando mais normal, mais dentro da esperada possível.
+
+[Palestrante 1]
+Conforme a gente for construindo essas novas versões, a gente vai entrar em contato com vocês também para validar se a gente está no caminho certo, se está de acordo com a expectativa com que a gente tem conversado, mas a princípio é como o Rafael falou, então a gente tem ali maio, junho, uma expectativa de já ter algo para mostrar ou que a gente possa começar de repente testar e essa virada de chave da jornada como um todo ali o mais breve possível a partir do começo desses testes.
+
+Certo pessoal, acho que do meu lado estou satisfeito, consegui cobrir todas as questões que a gente tinha, se vocês tiverem algum outro ponto que não foi falado aqui como eu mencionei, podem mandar depois e agradecer demais pelo tempo de vocês dois, também pelo acompanhamento do Gazola e voltamos a falar no futuro quando a gente tiver algo mais concreto para mostrar.
+
+[Palestrante 4]
+Muito obrigado, boas férias, Leandra, a gente vai manter vocês atualizados nos próximos passos.
+
+[Palestrante 2]
+Está certo, obrigado, tchau.
+
+[Palestrante 4]
+Tchau, tchau.

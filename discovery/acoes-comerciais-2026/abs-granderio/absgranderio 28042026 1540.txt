@@ -1,0 +1,419 @@
+[Palestrante 5]
+Obrigada.
+
+[Palestrante 2]
+Bom, para a gente foi bem tranquilo, a gente está se adaptando, a gente está se adaptando tanto a plataforma como a plataforma está se adaptando, como a gente trabalha aqui, a gente está pendente através da questão do cartão de crédito, para trabalhar com Então, a gente está esperando também até, já tive uma conversa com o TI daqui, que a Angela, acho que ela tinha pedido uma solicitação de umas coisas, eu já partei para ele, que ele vai saber mais essa questão técnica, né?
+
+Vai ver, vai passar para ele tudo direitinho. Questão comercial, a gente também está trabalhando com cupom, né? Cupom de desconto Tanto, também foi muito bom, que a gente agora conseguiu integrar as promoções de bonificação, né?
+
+Que são os fomos, então está muito bom também. Tem algumas coisas que a gente estava pendente em questão do saque, né? Porque eu tinha falado, acho que com o Pedro, para que a gente tenha notificação, tanto o cliente ter a notificação quando a gente responder, como também quando o cliente solicitar a ajuda, também chegar para mim Para a gente da BS, é um pouco mais difícil, a gente está bem detalhado, porque a gente não faz só questão da plataforma, né?
+
+Fico responsável também de portar os prêmios, auxiliar a equipe comercial, tanto daqui para Lagoas, então são muita gente, solicitação de relatório direto, então não só da plataforma, mas em geral a gente dá suporte também ao laboratório, então é isso, mas a gente vai fazendo o que pode aqui.
+
+[Palestrante 1]
+Sim, a questão do saque, até só falando sobre isso rapidinho, o Pedro já trouxe os pontos para mim, eu até retornei uma questão para ele, que a notificação do cliente existe, ela não é push notification no dispositivo, mas quando ele acessa o e-commerce ele tem ali o aviso de que houve uma resposta, uma atualização no chamado dele. Para o gerencial, realmente, só quando ele responde que tem também uma atualização, mas se ele abre um chamado novo, a gente não gera essa notificação, então a gente está vendo essas coisas também, mas falando um pouco sobre o próprio contexto das ações comerciais, hoje vocês estão trabalhando com os nossos quatro tipos, flexível, combo, oferta e cupom.
+
+[Palestrante 2]
+Flexível a gente trabalha bem menos, mas a gente trabalha com a questão do cupom, que é o 10%, a gente também colocou o da Hidrolite, a gente também trabalha com os combos, que são nossas promoções aqui de bonificação e as ações comerciais, sempre quando tem a gente cria o bonizinho, a gente faz, a gente teve agora recentemente o Super Ferão, a gente também usou na plataforma, esse Ferão só foi aqui na BRS, não foi na Grande Rio, mas a gente já está pensando em outra ação também para fazer para lá, usar também como pacote.
+
+[Palestrante 1]
+Perfeito, e no caso ali das ofertas, que é o escalonável, que a gente coloca ali, de tanta totalidade já está o preço, vocês costumam usar bastante também? Sim. Então de todos os tipos ali, a que tem menos uso hoje para vocês é a flexível?
+
+[Palestrante 2]
+É, por enquanto a gente, é a que a gente menos está trabalhando.
+
+[Palestrante 1]
+Mas tem algum motivo específico de mecanismo da própria promoção, ou é um tipo de promoção que vocês não costumam trabalhar na BRS, como é que é isso?
+
+[Palestrante 2]
+É que a gente realmente não usa muito aqui também, e a gente também é bem fechado, porque a gente tem muita diretoria, então criar, fazer todo o estudo para poder passar para a Anderson, ele tem que ter tudo na tendência para poder passar de volta para a gente, para ele dar aprovado, dar certo.
+
+[Palestrante 1]
+Entendi. E sobre... Boa tarde, Gasol.
+
+[Palestrante 3]
+Boa tarde, boa tarde turma, desculpa o atraso.
+
+[Palestrante 1]
+Tu comentou ali que o Combo vocês tratam com ações de bonificação, como que funciona isso? Porque até tem uma pergunta aqui para te fazer relacionada a essa questão da bonificação mesmo. Alô, tá me ouvindo?
+
+Opa, tô te ouvindo. Oi, tá me ouvindo? Sim.
+
+Ah, tá, beleza. Entendeu, trocou o dispositivo aqui, aí eu tive que... Mas tá, eu tô ouvindo normal.
+
+Não sei se chegou a ouvir a minha pergunta, mas sobre o Combo, tu comentou algo.
+
+[Palestrante 4]
+Ah, não, não.
+
+[Palestrante 1]
+São nossas ações de bonificação. Como que funciona isso? Por que vocês usam o Combo para bonificação?
+
+Como é que é esse mecanismo, essa configuração? Só para entender um pouco melhor.
+
+[Palestrante 2]
+Sim, hoje aqui a gente trabalha com dois tipos de promoção, né? Que é a promoção de desconto, que a partir de tantas unidades ele vai ter um desconto de produtos e a de bonificação. Que foi, ele compra tantas unidades de um produto e ganha...
+
+Como é que é isso? Ele compra 12 de um parafetamol, que ganha duas unidades bonificadas. Então a gente não tinha como integrar isso na Nexpa.
+
+Mas a gente já conseguiu agora. Ele compra tantas unidades e ganha mais duas, três bonificadas dependendo da promoção do mesmo.
+
+[Palestrante 1]
+Então vocês criam o Combo porque vocês não conseguem associar uma ação de bonificação ao item individual. É isso? É, hoje é integrado.
+
+[Palestrante 2]
+Hoje a Nexpa já gera sozinho. Antes eu fazia isso manual. Mas depois do tempo a gente foi modificado e agora já é automático.
+
+Mas aqui na Nexpa o nosso direito é o que faz. Então ele sempre... Qualquer que seja a alteração de preço, de promoção, a unidade de solicitação, o espaço...
+
+Eu quero... Geralmente bonificação é quando o item está com uma validade mais próxima. Então a gente sabe que a gente vai conseguir gerar um alto estoque.
+
+Então a gente... Ele compra tantas unidades e já leva mais tantas unidades de bonificação. Que aí é mais atrativo para o cliente e a gente consegue integrar isso na cadeira.
+
+Para não chegar no ventre.
+
+[Palestrante 1]
+Entendi. E essa ação de bonificação, ela está amarrada sempre? Eu compro um produto e eu ganho mais daquele mesmo produto?
+
+Ou teria também ações que são mais livres? Por que eu estou te perguntando isso? É porque a gente tem conversado com outros parceiros e tem surgido ali no horizonte um novo tipo de ação comercial que a gente tem sondado de bonificação.
+
+Que seria uma ação onde... Eu configuro muito mais a... Se ele comprar...
+
+Se meu cliente comprar 300 reais de qualquer produto ou dos produtos que eu seleciono aqui comprando livre, sem ser combo, sem ser flexível, sem ser oferta. Ele está ali selecionando os produtos e ele comprou... Ele atingiu ali as regras da minha ação.
+
+Ele está habilitado a selecionar dentro de uma lista de produtos os itens bonificados. Isso faz sentido para vocês?
+
+[Palestrante 2]
+Sim, bacana. Aqui a gente não costuma fazer tanto isso. Mas a gente também trabalha com pacote.
+
+Só que aí geralmente é mais um time comercial. A gente vai, tipo, comprando... 500 reais da linha Sala e Núcleo.
+
+Você ganha um copo, uma caneta, uma peça. Desse tipo. Aí o trabalho da gente é amarrar isso na plataforma.
+
+A gente tem que ter o brinde cadastrado e tudo. Aí tem muitos produtos que não têm código de baixa. Tipo, como o pacote.
+
+A gente também está estudando a menina da... Fazer o cadastro. A gente está estudando para fazer isso como?
+
+Na plataforma.
+
+[Palestrante 1]
+Legal. E você trabalha com algum tipo de ação? Voltada para a venda de exclusivos?
+
+Ou de produtos específicos? Que são desbloqueados a partir de uma condição de venda? O que eu quero também dizer com isso?
+
+Por exemplo. Eu recebi aqui um produto novo da FarLab. Mas eu só...
+
+Para o meu cliente poder comprar esse produto. Ele precisa comprar 300 reais de outros produtos ali da FarLab. Para eu desbloquear essa venda.
+
+Vocês têm algum tipo? Hoje na plataforma não é possível fazer esse tipo de amarra. Mas vocês têm isso dentro da estrutura da ABS?
+
+Ou da Grande Rio de alguma forma? Enfim.
+
+[Palestrante 2]
+A gente já fez algumas ações comerciales. Nessa plataforma. Mas há alguns clientes específicos também que vão trabalhar.
+
+Para conseguir passar essa coisa.
+
+[Palestrante 1]
+Sim, é mais segmentado então. É mais direcionado. E ações de compra coletiva, vocês trabalham também?
+
+Por exemplo. Grupou essa peixe urbano. Coisas que...
+
+Eu tenho aqui essa promoção. Só que essa promoção só vai ser efetivada. De fato.
+
+Se mil clientes comprarem. Se chegou ali no último segundo. 900 clientes compraram.
+
+Essa promoção é desativada. Enfim. Quem já comprou é reembolsado.
+
+É claro. O pedido não é de fato lançado. Não.
+
+Nunca fiz algo parecido assim não. A gente teve um caso de um parceiro. Acho que foi em Minas Gerais.
+
+Eles fizeram uma ação de teste nesse sentido. E eles tiveram um resultado bem bacana. Então a gente está sondando também de possibilidade de trazer isso para o...
+
+Ele foi externo. Eles fizeram essa ação externa. Mas eles conseguiram um resultado muito interessante.
+
+Em cerca de duas horas eles fecharam a promoção. Renderam um valor considerável. Então essa é uma das outras alternativas de novos tipos de ação.
+
+Que a gente está pensando em trabalhar. Assim como também ações de cashback. Não sei se vocês hoje têm algum tipo de ação de cashback dentro.
+
+Com os clientes da Bess ou da Grande Rio. Se vocês trabalham algum tipo de crédito. Que mediante ele comprando ele consegue usar.
+
+Ou no mesmo pedido ou no pedido seguinte. Pelo que eu entendi vocês usam também ali os cupons. A gente tem dentro dos cupons de desconto.
+
+Enfim. Produtos específicos no pedido como um todo. A gente tem o cupom de brinde.
+
+Que até eu acho que pode conversar com aquela questão que você comentou. Mas ainda assim o produto teria que estar cadastrado com a nossa base. E tem o de crédito flex.
+
+Que ele é uma espécie entre muitas aspas. Ele é um cashback instantâneo que ele pode usar no pedido. Mas fora isso vocês trabalham?
+
+Vocês usam esse tipo de cupom? E se não usarem tem algum outro tipo de ação de cashback que vocês trabalham?
+
+[Palestrante 2]
+Não. Não tenho nem para falar. Para mim é que algumas ações também são exclusivas para alguns vendedores.
+
+Alguns tipos de vendas. Entendeu? Para alguns regiões.
+
+Mas ainda assim quando é uma coisa bem isolada, direcionada mais só. O gerente comercial, a equipe comercial. Geralmente quando tem a equipe automática.
+
+Realmente precisa fazer pacote, fazer arte. Ou então quando é alguma coisa específica na plataforma. Mas para solicitar ainda não foi.
+
+Mas pode ser uma coisa estudada.
+
+[Palestrante 1]
+Legal, bacana. Fala um pouquinho então dessas rotinas. Então pelo que entendi tu que fica responsável por fazer essa criação.
+
+Essa gestão das ações da Antanex. Agora menos porque a gente tem a integração dos combos. Então acaba que eu imagino que tu passa mais tempo no IP.
+
+Ajuda bastante. E aí tu acaba cadastrando isso mais dentro do RP mesmo.
+
+[Palestrante 2]
+Entendi.
+
+[Palestrante 1]
+E essas ações elas são diárias? Não. No RP a gente tem uma ministra aqui que está cadastrando.
+
+[Palestrante 4]
+Ah tá.
+
+[Palestrante 1]
+Tu atua mais aonde? Na plataforma do Nexfire mesmo? Isso.
+
+[Palestrante 2]
+Diretamente na plataforma. E eu fico responsável. Tipo, o Passar de Prêmios que é outro aplicativo que a gente tem.
+
+Catálise também que é outra funcionalidade que a gente tem. Também com a nossa equipe. E auxilio também.
+
+Qualquer problema que tiver na plataforma, o cliente está conseguindo gerar o boleto, está conseguindo ver o estado do pedido. Qualquer vez que tu tiver um contato comigo eu auxilio.
+
+[Palestrante 1]
+Entendi. Eu queria questionar justamente esse ciclo de cadastro dessas promoções. Elas são diárias?
+
+Elas são semanais? Diárias. Diárias.
+
+[Palestrante 2]
+Todo dia a gente tem mudança de preço. Então, hoje a gente está com os preços hoje de manhã. Pode ser que desde 10 horas do dia a gente mude.
+
+E 4 horas da tarde a gente mude de novo.
+
+[Palestrante 1]
+Agora, para o Combi Oferta, a gente tem a questão da edição ali. Que eu acredito que facilite bastante. Mas antes, imagino que vocês tinham um custo bem grande de retrabalho.
+
+De ficar recriando, clonando as ações. E essas ações, então, elas mudam em tempo real. De cremação de manhã até tarde ela já pode mudar o preço.
+
+E eu já tenho que ir lá e parametrizá-la novamente. Entendi. E vocês têm ações que são muito extensas?
+
+Por exemplo, tem muitos parceiros nossos que tem venda mais neoquímica. Ou alguma ação do tipo que ela basicamente roda ali o mês inteiro. E semanalmente ela tem alguma mudança.
+
+Então, uma semana ela acontece num dia. Outra semana ela acontece em outro dia. Vocês têm ações que são recorrentes.
+
+Mas que vão sofrendo alteração com o tempo. Ou são muito mais essas ações pontuais. Que ainda assim sofrem mudanças de acordo com ajustes de preço e tudo mais.
+
+[Palestrante 2]
+A gente tem, mas qualquer momento pode mudar. Então, a gente faz uma ação lá, física. Mas qualquer momento sobe.
+
+E aí se a gente acabou, a gente tem que alterar o preço. Então, a gente entra num lote que está com validade. Mas se a gente tiver um item com dois lotes.
+
+Vai estar um preço menos agressivo. Porque tem que estar com a validade boa ainda. Mas acaba naquele lote, entrando num lote com validade.
+
+A gente vai colocar uma ação mais agressiva pra gente conseguir tirar o item.
+
+[Palestrante 1]
+E você comentou que a flexível é a que tem menos uso. Ela sempre foi assim? Por causa da forma como são as regras?
+
+Ou acaba que esse uso é menor? Porque ela ainda não tem uma integração. A gente não permite edição.
+
+Então, ela passa por aquele ciclo mais trabalhoso. Beleza, o cara estreia, mas eu tenho que alterar alguma coisa. Então, eu vou lá e tenho que clonar.
+
+Ou realmente nunca foi uma prática da ABS usar as flexíveis?
+
+[Palestrante 2]
+É, a gente nunca foi. A prática das ações, a gente já era. A gente era uma empresa mais do que isso.
+
+[Palestrante 1]
+O que você colocaria como o maior desafio quando a gente fala dessa gestão das ações? Pode ser qualquer coisa. Pode ser um desafio que tu identifica aí no teu dia a dia.
+
+Nessa manutenção, nessa visibilidade, no cadastro. Pode ser coisas que chegam pra ti e já... Aqui funciona, mas pro vendedor eu sei que tem essas dificuldades.
+
+Enfim, achar que é pertinente trazer.
+
+[Palestrante 2]
+Nesses cômodos, eu não sei. Eu acho que eu já tinha forçado uma vez. Ver se o cômodo aconteceria.
+
+Se ia aparecer o ítem diretamente, tem que precisar o cliente entrar no cômodo. Então, o ítem característico. Nossos clientes, eles querem ver se não é a caixa, se a embalagem mudou.
+
+Então, nesses de bonificação são os cômodos. Ele tem que clicar lá, ver detalhes. Pra poder identificar o produto.
+
+Se tiver comum haver vivido dado um item naquele cômodo já. Um item do lado. Ia ajudar bastante.
+
+Bastante pra gente, um pouquinho.
+
+[Palestrante 1]
+Entendi, entendi. Justamente, ele bateu o olho e já sabia. Tá, esse cômodo é esse, esse produto.
+
+Porque hoje ele vê o nome, vê um banner. Às vezes pode ter um banner de neve. Aí ele tem que identificar, ver detalhes e...
+
+Sim, legal. E tem algum outro tipo de ação que vocês trabalham internamente? Ou trabalham em alguma outra plataforma que a gente não contempla hoje?
+
+[Palestrante 2]
+Não, eu acho que essa questão do pacote, que é o que a gente mais trabalha aqui também. A gente, eu acho, consegue estudar algum item, né? Algum item de brinde pra cadastrar.
+
+E a gente consegue lançar na plataforma. Vai ser bacana.
+
+[Palestrante 1]
+Só um segundinho que... Deixa eu ver aqui, aviso que desliguei a tomada. Só me dê um segundo que eu vou ali pegar o carregador.
+
+Esqueci de trazer o carregador. Voltei, voltei. Perdão.
+
+Deixa eu ver. O PC aqui, ele avisa quando já tá desligando. Ele não avisa nem quando tá com pouca bateria.
+
+Mas enfim, da onde a gente tava falando, né? Então hoje, tudo que vocês trabalham a gente tem basicamente dentro da plataforma. E as regras que a gente trabalha dentro da plataforma, todas fazem sentido?
+
+Existe algum outro mecanismo? Você mencionou ali, a gente usa o combo pra bonificação. Mas hoje a bonificação do combo é fechada, né?
+
+Eu configuro o combo, eu tenho os itens que vão ser bonificados. Comprou o combo, levou o bonificado, ponto. Tem algum outro tipo de...
+
+alguma outra alternativa? Algum outro tipo de funcionamento que vocês acham que poderia ser interessante nessa lógica de bonificação?
+
+[Palestrante 2]
+Eu acho que é só essa questão da imagem mesmo.
+
+[Palestrante 1]
+De tela de cara ali pro cliente o que ele tá vendo. Só que o café aparece na cozinha, né?
+
+[Palestrante 2]
+Mais ou menos do lado da cozinha. Sim. Acho que chama mais a atenção do cliente.
+
+Eles gostam muito de ver essa questão de embalagem. Tem cliente que liga pra trás e sabe a cor do remédio.
+
+[Palestrante 1]
+Ah, tem que organizar a prateleira de jeito que chame a atenção do consumidor, né? E a questão das ofertas escaláveis? Hoje pra vocês, na verdade de modo geral nas ações, né?
+
+Hoje a gente tem integrado compra e oferta, beleza. Quando vocês criam essas ações, vocês costumam importar ou vocês fazem uma seleção mais manual? São muitos produtos que vocês incluem, são produtos mais seletos.
+
+Como é que funciona isso?
+
+[Palestrante 2]
+É mais seleto e é tudo manual mesmo. A gente não importa nada. Cada vez que a gente coloca uma oferta, é tudo manual.
+
+[Palestrante 1]
+Ok, entendi. Bom, com as perguntas que eu tinha aqui pra te fazer, eu já cobri tudo. Acho que a ideia é ver se tem mais alguma coisa que vocês, hoje, acreditam que poderia ser diferente.
+
+Já mencionou essa questão do combo, né? A gente tem ali o produto explícito já pro cliente já ter noção do que ele tá adquirindo. E não ser só aquela questão mais lúdica de, ah, o combo verão.
+
+O que é o combo verão? O combo verão é protetor solar e não sei mais o que. Então, enfim.
+
+Então, não sei se terias mais alguma consideração também pra trazer em relação às ações de modo geral. Se também se lembrar de alguma coisa depois da reunião, pode passar pro Rafael. Acredito que já tenha contato dele.
+
+Também pode vir passar. Na agenda tem o nosso e-mail. Mas, enfim.
+
+O espaço é teu aí. Fica aberto pra trazer.
+
+[Palestrante 3]
+Eu já vivi essas coisas. Eu vi alguma demanda também que não consegui fazer. Eles falam que não permitiu.
+
+Mas tenho vontade de fazer algum tipo de campanha. Então, o que faz? Com a força de Deus, eu vou começar a fazer e-commerce.
+
+A nossa ideia é realmente entender quais as necessidades de vocês para exprimir esse catálogo de possibilidades e de promoções.
+
+[Palestrante 2]
+Atualmente, agora a gente está conseguindo andar bem. Conseguimos alinhar todos os nossos pontos de direito com vocês. A gente está só pendente nessa questão de crédito do PIB.
+
+E a gente está trabalhando pra isso. Já falei com o nosso CEO. A gente tem algumas coisas que tem que passar pra...
+
+Que é pra arrumar um projeto.
+
+[Palestrante 3]
+É. Informa tá pendente ali, né? Ah, não.
+
+A gente já tá buscando isso aqui com vocês também. Informa, né?
+
+[Palestrante 2]
+Ela tem um catálogo em meio, só que como são coisas bem técnicas. Daí eu não sei, né? Então, aí eu passei pra nossa aí, que ela tem um catálogo informado com vocês.
+
+[Palestrante 4]
+Então, dá graça. Ah, tá certo, tá certo. Eu confundi as coisas.
+
+A gente tá esperando o Marcos voltar de férias, na verdade. Porque ele volta, acho que, início de sexta-feira, né? Acho que aí ele só tá com a gente.
+
+[Palestrante 2]
+Atualmente, ele tá de férias. Entendi. Aí tu acha que o resto a gente vai te dar?
+
+Essa questão dos contos, né? Que a gente pode cumprir. É...
+
+Sobre o... Tá aqui... A gente já falou com o Pedro, né?
+
+Sobre chegar na aplicação e tal. Pra gente... Como a gente aqui tá na correria dia a dia.
+
+Se não chegar na aplicação, a gente pode...
+
+[Palestrante 1]
+Demorar, né?
+
+[Palestrante 2]
+Estou lá olhando a verificação. Se não chegar na aplicação, acho que vai ser bem bacana pra gente.
+
+[Palestrante 1]
+Sim. Aí só pra gente... Só pra gente encerrar então, né, André?
+
+É... Tu comentou que tem uma outra pessoa que fica responsável por fazer esse cadastro no RP, né? De vocês.
+
+Isso. As informações são minhas. É...
+
+Você acha que faria sentido, de repente, a gente conversar com ela? Entender como é que funciona essa jornada dela no RP? Porque também...
+
+Eu até tava pra juntar esse lado. É a Janine, no caso?
+
+[Palestrante 2]
+É. Ninguém me recordou. Não, não.
+
+É a Janine. Não. É a Janine que fica responsável.
+
+Ah. Ah, sim. Não sei se...
+
+Não sei se é interessante pra vocês conversarem, entenderem como é, mas é um procedimento diário. Então a Janine fica... Ela tá do meu lado aqui e tá fazendo promoção diária.
+
+Então ela recebe os preços, ele é o mercado de entrada que é... Então ela que faz a verificação, coloca, fechando os preços, promoção. Se vai ser uma promoção de consumo, se vai ser uma promoção de qualificação.
+
+Então tudo é ela que cadastra.
+
+[Palestrante 1]
+É, não. Eu pergunto porque um dos objetivos que a gente quer também trazer e que a gente tem sondado com vários parceiros que tem sido de interesse da maioria, é centralizar toda essa jornada dentro da plataforma da Nexfar. E aí, claro, comunicar isso com os RPEs.
+
+Hoje a gente integrou a escrita do RPE da Nexfar, então a Criocombo lá na RPE e isso vem pra Nexfar de forma já estruturada, mas a gente tá sondando essa possibilidade de, na verdade, fazer o processo inverso. Deixar tudo centralizado, toda a jornada de ações comerciais dentro da Nexfar, com os N alternativas e mecanismos de configuração dessas promoções e transportar isso para o RPE do cliente de forma que converse ali com os dados e, enfim, a ação acaba sendo centralizada na nossa plataforma. Então é mais entender também a visão dela em relação a essa jornada de cadastro no RPE, como que ela preenche esses campos, possibilidades que ela tem, se a estrutura de campos do RPE conversa exatamente com a estrutura que a gente tem na Nexfar, se foi uma coisa ali mais ou menos baseada, ou se foi coincidência, ou se realmente tem uma divergência nessas informações, mais nesse sentido.
+
+Mas, enfim, se achar que vale a pena, a gente passa o tempo.
+
+[Palestrante 2]
+Eu vou ter uma conversa com o Janinho, que é o nosso diretor, e verificar com ela se eu acho interessante isso. Eu não sei se a diretoria vai querer deixar focado essa questão, porque tem muitas coisas que a gente promove, que a gente faz, que não vai para a plataforma. Realmente não é o que a gente faz para a plataforma.
+
+Desde quando a gente sacou os códigos das promoções que realmente é para isso. Não tem como soprar vendedores específicos. Não todos os vendedores têm essa função.
+
+Eu acho que, não sei se o Janinho achou interessante, mas a gente está conversando com o Janinho. Se for, a gente pode marcar o Janinho com vocês no grupo. E se vocês também acharem que é interessante também, ou entender como é que funciona também, a gente pode marcar com o Janinho.
+
+[Palestrante 1]
+Perfeito. A questão da centralização é mais um commodity mesmo, mas o nosso objetivo realmente é mapear todas as regras necessárias para que a gente faça algo nessa reconstrução, que está mirando ali no segundo semestre. Deixar tudo redondinho, deixar uma jornada mais reta e com menos ruídos.
+
+Mais flexível também em relação a parametrizações, edições, manutenção desse ciclo de vida das ações comerciais. E com certeza, mais para frente, eu acredito que em questão de junho, julho, a gente deve entrar em contato de novo para trazer um pouco mais de como está estruturado isso. De repente, rodar alguns testes e no segundo semestre, de fato, virar para todos os nossos parceiros essa V2 das ações comerciais.
+
+[Palestrante 2]
+Beleza. Bacana. Sim.
+
+[Palestrante 1]
+Sim, sim. Fechado, Leandro. Então, não sei se o Rafael tem algum outro ponto.
+
+[Palestrante 3]
+Perfeito. Então, a gente agradecer. Eu te agradeço.
+
+[Palestrante 1]
+Qualquer coisa, tenha contato aí. Pode chamar o Rafael. O Rafael pode te passar o meu contato também, se quiser chamar direto.
+
+E a gente vai falando. Beleza. Qualquer coisa eu falo com você.
+
+Beleza. Conta com a gente. Um abraço aí.
+
+[Palestrante 5]
+Pois valeu.
+
+[Palestrante 1]
+Um abraço. Tchau, tchau. Tchau, tchau.

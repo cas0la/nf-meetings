@@ -1,0 +1,310 @@
+[Palestrante 1]
+Questões de jornada das ações comerciais. Então, a gente sabe que, historicamente e recentemente, teve várias solicitações que vocês já abriram para a gente aqui em relação às ações comerciais, promoção flexível, com oferta e tudo mais. E a gente está, no momento, mapeando, falando com diversos parceiros e construindo essa jornada para reformular todas as ações comerciais da Nexfar a nível de plataforma e trazer um escopo que vai atender e fazer mais sentido dentro da jornada do dia-a-dia de vocês na distribuidora.
+
+Então, a gente já conversou com os outros parceiros, a gente já mapeou algumas coisas e a gente entende que a Dinobras também é um parceiro bem importante e que utiliza bastante das ações, tem bastante contato com o mecanismo de promoções da Nexfar. Então, o objetivo aqui é realmente a gente ter uma conversa bem ampla e bem aberta sobre o que vocês sentem de necessidade, o que vocês operam dentro e fora da Nexfar. Então, até se tiverem pontos que vocês têm que trabalhar dentro de ações comerciais dentro da Dinobras, que não estão dentro da nossa plataforma, mas sim organizadas em outros lugares, como que a gente poderia, de repente, centralizar essa atuação.
+
+Eu tenho um roteirinho aqui que eu vou passando para algumas perguntas mais para anotear a nossa conversa, mas é para ser um papo aberto mesmo, não tem certo ou errado aqui. A gente quer realmente entender a necessidade de todos vocês no dia a dia, o que impacta realmente no dia a dia no uso das ações por parte da Dinobras. Certo?
+
+[Palestrante 5]
+Certo?
+
+[Palestrante 4]
+No caso da neoquímica, tem um mecanismo que cada semana altera o dia que ela funciona.
+
+[Palestrante 5]
+Aham. Sim. Sim, sim, claro.
+
+[Palestrante 1]
+É até interessante alguns desses pontos, muito do que você está falando, eu vou testar aqui também no roteiro, justamente para sondar e mapear. Realmente teve essas necessidades que foram levantadas logo que você entrou e isso está... Sim, isso está no nosso backlog.
+
+Devido a outras atuações e frentes aqui na empresa, isso acabou ficando com menos prioridade no nosso roadmap e agora realmente a gente está parando para reformular essas ações. Então um dos pontos que a gente está justamente mapeando com os parceiros e já conversa completamente com o que você trouxe, é essa questão da bonificação. Ações mais voltadas para a bonificação ou a flexibilização da bonificação, combos, inflexíveis, nem te garanto que vai seguir com esse nome, pode ser que a gente reformule todo esse mecanismo, mas o importante é, primeiro, a questão da bonificação, a gente entende que ela é muito rígida, hoje eu coloco ali uma lista de produtos e é binário, ou tu bonifica ou tu não bonifica e ponto.
+
+Então a gente quer expandir isso para, de repente, trazer uma lista de produtos que estão elegíveis a serem escolhidos dentro das regras. A gente está pensando em trazer uma ação exclusiva de bonificação, que a gente tem sondado com outros parceiros também, que alguns mecanismos que eles usam, não é necessariamente uma promoção, um combo, mas é baseado em valor de carrinho. A gente compra 750 reais, tem uma bonificação de até, sei lá, 10 produtos e aí pode selecionar dentro dessa lista.
+
+São coisas que a gente está pincelando, não estou te garantindo que tudo isso vai existir, mas que a gente está sondando justamente para ver a aderência. O cashback é um dos pontos mais importantes para a gente, até queria entender no caso do cashback de vocês. Ele é um saldo realmente, para isso ficar numa carteira do cliente, ser utilizado em algum momento, é algo mais imediato.
+
+Ele comprou mil, ganhou 100 de cashback, ele pode pegar mais 100 reais em produtos com esse saldo, se ele não usar ele perde, ou isso fica guardado, fica numa carteira, digamos. É bem aderente com o que a gente tem visto também com o restante das atuações. Em relação a outros tipos de mecanismos que a gente está avaliando também, não sei se vocês já trabalharam ou já exploraram a ideia e ficaram justamente limitados pela plataforma, questão de ações coletivas, por exemplo, a gente tem essa promoção que está num valor super exclusivo, mas eu preciso que mil clientes comprem essa ação para eu poder de fato efetivá-la e garantir esse preço, senão a ação é inativada. Não sei se vocês já trabalharam com algum tipo de mecanismo nesse sentido, mas é algo que a gente está estudando também. Uma outra frente que a gente está vendo também é a de produtos exclusivos, que a gente tem sentido que é uma prática bem comum do mercado, que é associar a venda de um produto a uma compra de um grupo de produtos.
+
+Então, por exemplo, recebi aqui da FarLab um produto que só a Dimebras vai trabalhar, ou recebi um produto em lançamento que eles querem que a gente impulsione a venda. Eu só vou permitir que meu cliente compre esse produto ou que ele tenha uma oferta, um desconto especial nesse produto se ele atingir certas condições de compra. Então, se ele comprar 700 produtos da FarLab, ele pode ter esse produto aqui.
+
+[Palestrante 5]
+E vocês têm essa prática? Sim.
+
+[Palestrante 1]
+Não falando só dos mecanismos, acho que é importante também endereçar até os pontos que tu trouxe já de autonomia em massa de ações, mas da jornada de criação e manutenção dessas ações. Hoje a gente está integrando ofertas, a gente vai estar integrando os combos, a gente ainda está trabalhando na questão da flexível. Inclusive, esse pacote de mudança toda das ações comerciais tem como visão contemplar a integração 100% das ações.
+
+O que a gente está estudando, de repente, são dois caminhos, porque hoje o que a gente faz é, vocês escrevem no IRP de vocês, a gente consome e envia para a Nexfar automaticamente e a sincronização e a ação é criada do nosso lado. Então, a gente está tanto estudando manter esse caminho, como também ter um caminho diferente, porque tem alguns parceiros que gostariam de centralizar a atuação dentro da Nexfar. Então, a gente ter essa criação com as regras flexibilizadas de maneira mais robusta dentro da plataforma e isso escrever no IRP de vocês de forma automatizada, sem que precise ficar recriando tudo e as regras não se perderem nesse meio tempo.
+
+Regras que são compatíveis com a estrutura interna da distribuidora. Então, em relação à jornada de criação e manutenção dessas ações, eu queria entender um pouco mais sobre a frequência com a qual isso acontece. As ações são criadas diariamente, tem a questão da venda neoquímica, que eu acho que é um exemplo um pouco mais peculiar, mas ainda assim é recorrente, porque acontece, como você disse, que todos os grandes parceiros têm uma ação venda mais neoquímica e caem nesse mesmo cenário de, ah, hoje eu tenho que oferecer, essa semana eu tenho que oferecer na terça, semana que vem é na quinta.
+
+E fica toda essa problemática de ficar tendo que clonar, criar do zero, enfim, ficar replicando a mesma ação. Mas entender, de modo geral, as ações que são mais comuns, elas são ações mais pontuais, elas são ações de duração mais extensa, elas são cadastradas diariamente, elas são cadastradas semanalmente, é no início do mês que a gente para e tira ali um, dois dias de alguém da nossa equipe para ter que cadastrar todas as ações de uma vez. Então, como que é essa jornada de modo geral?
+
+[Palestrante 2]
+Enfim, e aí tem promoções pontuais, tipo, ah, vai trabalhar essa sexta-feira, esse fim de semana, ou fez uma análise ali, viu um item específico e vai querer agir nesse sentido. Só que o fluxo nosso aqui hoje é início do mês, semanalmente sempre vai ter também uma, algumas, vamos dizer assim, várias para a semana e daí pontuais, mas meio que quase todo dia tem sim promoção para ser cadastrada.
+
+[Palestrante 1]
+E em relação, claro, novamente, na alquímica a gente já sabe que existe ali essa necessidade, mas as outras ações, elas sofrem muita alteração dentro do ciclo de existência delas? Ou é algo mais, a gente criou aqui no início do mês, a gente criou aqui na semana e até o encerramento dela não varia de preço, de prazo de validade, no sentido de vigência, ou as regras se mantêm as mesmas? Em qual frequência existe essa multabilidade das ações com quais você trabalha?
+
+[Palestrante 2]
+As normais não tem tanta não, Lucas, a gente inicia, monta e já era. A única coisa que vai ter é uma alteração ou outra, se vê que o preço ficou fora ou algum outro item deu algum interesse, alguma coisa assim nesse sentido. Mas no geral ela cria e é respeitado o prazo, tipo, criou, não mexe mais até finalizar.
+
+Ou até alguém solicitar ou surgir alguma outra necessidade.
+
+[Palestrante 1]
+E das ações que a gente tem hoje, hoje vocês utilizam flexível, combo e oferta, certo? Qual que vocês utilizam mais e qual que vocês acabam utilizando menos e por que exatamente?
+
+[Palestrante 2]
+Olha, a que mais cria é a flexível, porque é aquele detalhe, como você tem várias regras, às vezes uma promoção você faz 10. Então, no caso, se eu for olhar, se eu puxar o meu sistema, a que eu mais tenho criado é flexível. Porque, por exemplo, venda mais na oferta eu crio só uma por empresa, entendeu?
+
+E já era. Só que dele é flexível, eu crio 20 por empresa. Então, tipo, enquanto na oferta eu vou ter 3, no flexível eu vou ter 50, 60 promoções.
+
+O combo hoje é o que a gente menos utiliza. Porque como a gente está no mercado onde a venda casada fechada, né? Tipo, você tem que pegar isso aqui e isso aqui, tá?
+
+Tipo, cada vez pior, né? O cliente cada vez menos quer... Eu não quero que você escolha o meu negócio, eu quero escolher o meu negócio.
+
+Então, a flexível tem sido muito mais atraente. Eu fazer uma seleção de produtos, falar um valor e você atingir e escolher dentro desses itens. Então, o combo hoje é o que a gente menos usa.
+
+Puxar lá, o combo, tipo, só está tendo hoje, bem dizer, o venda mais.
+
+[Palestrante 1]
+Entendi. E essa CA flexível que hoje não é integrada, hoje você tem que criar ela do lado de vocês no RP também.
+
+[Palestrante 2]
+Sim.
+
+[Palestrante 1]
+Quais são as diferenças nessa jornada em relação... Além do fato de ter que criar múltiplas vezes, né? E ficar replicando várias vezes os meus cadastros.
+
+Em relação à configuração de regra, de mecanismos da produção. O que mais difere assim pra vocês?
+
+[Palestrante 2]
+Eu acho que eu posso compartilhar aqui uma com vocês só pra você dar uma olhada. Você quer que eu apresente? Só pra você entender como fica no meu RP?
+
+[Palestrante 1]
+Não, isso seria bom.
+
+[Palestrante 2]
+No meu RP hoje a gente consegue... Se ficar muito pequeno, vocês avisam que o meu monitor é grande. Estão vendo bem?
+
+Se você dar um pouquinho de volume... Aí, tá bom. Hoje no meu RP, como que funciona?
+
+Eu posso fazer o linha a linha, entendeu? Eu coloco os itens, linha a linha, desconto, preço e tudo mais, certo? E é isso aqui que dita quantas promoções vão ser criadas, entendeu?
+
+Esse nomezinho aqui. Então você percebe que essa linha aqui tem um nomezinho só? E aí aqui eu coloco todas as regras.
+
+O mínimo do combo, a data do combo, a quantidade máxima do combo, todos esses detalhes. Todas as regras eu preencho na coluna, entendeu? E aí a única coisa que eu tenho que fazer é, por exemplo, mudar a linha ou mudar o nome.
+
+Tá vendo? Tem o grande, o pequeno, o certo. Isso.
+
+Vou pegar, por exemplo, aqui o do Venda Mais que é o que mais temos combos, né? Só pra você dar uma olhada.
+
+[Palestrante 1]
+Tudo isso que a gente está vendo que é a mesma linha com o mesmo nome são produtos diferentes dentro da mesma promoção.
+
+[Palestrante 2]
+Isso. Eu vou mostrar agora uma do Venda Mais, tá? Esse daqui, por exemplo, o Venda Mais.
+
+A gente está falando aqui de 16 combos que eu tenho que fazer no Paraná e eu anoto os IDs, que é o que eu vou ter que adicionar lá no NextFire. Então aqui, quando eu venho, se eu for filtrar só que não tem. No meu sistema hoje, no meu RP, eu, por exemplo, coloquei os itens, as regras e tudo mais e dou o nomezinho dele.
+
+E aí eu vou só mudando o nome, tá vendo? Mas os mesmos itens, eu vou só alterando os nomes dele. Linha por linha.
+
+E aí é um importar que eu faço, o sistema cria todas essas promoções flexíveis de uma vez. De acordo com o nome que... Ele registra o nome, cria o ID e registra essa promoção aqui, entendeu?
+
+Então hoje, no meu RP, a única coisa que eu tenho que fazer é alimentar a planilha, que seria o importador, né? E eu crio os 70 combos em um clique, entendeu?
+
+[Palestrante 1]
+A chave primária nele que tu utiliza, no caso, é o nome.
+
+[Palestrante 2]
+Isso, é. Tecnicamente tem o... Daí é o TI que faz todo o resto.
+
+Sim, sim, sim. Mas basicamente é... Se a coluna NomeCombo está preenchida, ele verifica se...
+
+O que tiver naquela coluna é do mesmo combo, entendeu? E aí, tipo, mudou o nome e ele sabe que é outro combo.
+
+[Palestrante 1]
+Legal.
+
+[Palestrante 2]
+E aí isso aqui já vai direto para o meu Televendas. Tá entendendo?
+
+[Palestrante 1]
+Legal, legal.
+
+[Palestrante 2]
+Então hoje, por exemplo, as importações de promoções flexíveis, que é o que é o mais moroso, vamos dizer assim, eu tenho um importador onde eu preencho todas aquelas regras lá. Ah, beleza. Mas isso, por exemplo, dentro do combo ali, a gente, às vezes, vai ter um item que é obrigatório, um item que é quantidade.
+
+É tudo aqui. Tá tudo ali, eu preencho. Tem a coluna se o produto é obrigatório, se o produto tem quantidade mínima, quantidade máxima.
+
+A gente já meio que criou quase no mesmo layout do Nextfire para quando vocês estivessem prontos, a integração fica mais fácil. Sim. Ah, tudo ok, né?
+
+Nesse sentido.
+
+[Palestrante 1]
+Mas aí o RP que foi adaptado, então, com base no que a gente tem meio que de regra hoje para que vocês conseguissem fazer o processo.
+
+[Palestrante 2]
+Não, não. Esse trabalho aqui, o João e a gente juntou dois sistemas que a gente usa, né? Um sistema que a gente faz o controle.
+
+Esse aqui também já é aquele para a integração de conta corrente, que o Robinho tinha comentado com vocês, né? Então aqui a gente já faz, usa esse sistema e aí também teve a manipulação dentro do Único, na tela dos Televendas ali para fazer essa recepção e tudo mais nesse sentido, entendeu? Então, aqui quando eu importo, eu já estou registrando lá na conta corrente e quando você manda, quando vocês faturam um pedido, quando o pedido vem pelo Nextfire, por esses IDs que eu preenchi, o sistema faz essa leitura toda aqui dessas regras e faz os débitos da conta, entendeu?
+
+[Palestrante 1]
+Para vocês, vendo que obviamente o mais ideal seria justamente ter que cadastrar num lugar só, usar essa planilha que é o que facilita no sentido de, pô, estou criando aqui múltiplas ações, eu jogo uma vez, eu crio várias ações de uma vez só. Não é só uma questão de replicar a mesma ação, são ações realmente diferentes que eu preciso cadastrar em massa hoje.
+
+[Palestrante 2]
+Aqui no meu sistema, hoje eu não duplico uma, eu sempre crio uma nova, mas como eu consigo criar num clique, é muito prático, né? Lá no Nextfire a gente tem que criar uma promoção, preencher toda aquela primeira aba, preencher a aba dos painéis, preencher o banner para dar incluir o item, aí no item, na hora que você importa lá, você já consegue fazer as regrinhas e tudo mais. Hoje, tecnicamente, eu tenho que fazer duas vezes.
+
+Eu alimento a minha planilha que eu comprei antes do sistema e depois eu tenho que fazer a do Nextfire todo e neste mês é assim. A primeira do mês é a mais complicada, tem que tirar tudo do zero, né? Mas depois as outras a gente vai duplicando e alterando.
+
+[Palestrante 1]
+Você comentou ali também sobre a questão da, eu não sei se eu entendi errado, mas em relação à aplicação desse combo, que hoje não é que nem oferta, que vai ali e ativa. Isso numa visão, se diz, do vendedor.
+
+[Palestrante 2]
+Como assim vai ali e ativa? Eu não entendi.
+
+[Palestrante 1]
+É que você tinha comentado, o combo ele é mais difícil, o combo flexível é mais difícil de acessar, a oferta a gente só vai ali e ativa no produto. Pode ser que eu tenha entendido errado, mas aqui me pareceu mais um comentário voltado para a interface do vendedor, que hoje, quando ele acessa a lista de produtos, ele tem ali logo de cara as ofertas, que ele clica e ativa a oferta. Já o combo e a flexível, ele acaba entrando numa outra tela.
+
+[Palestrante 2]
+Mas se eu não me engano, se ele clica no item, não mostra que o produto tem as, tem, mostra, né?
+
+[Palestrante 1]
+Mostra, mas ainda para comprar o combo, para comprar a flexível, ele precisa ir para uma outra janela.
+
+[Palestrante 2]
+Isso é uma oferta. É, não, eu não lembro de a gente ter falado isso. Se eu falei, não lembro.
+
+O que eu lembro de ter falado é que o combo era, o flexível ele consegue selecionar entre os itens, né?
+
+[Palestrante 1]
+É, não, eu devo ter associado, entendido errado ali. Aí acabou me dando essa ideia de que a gente estava falando mais da plataforma de vendas. Mas também para puxar isso, não sei se vocês têm algum tipo de visibilidade, informação sobre a experiência dos vendedores com o uso, com a...
+
+O Marques, eu acho que deve ter algo para falar disso aí, né? Exato, com o Marques ali, a gestora do Televendas, como que as possíveis dificuldades que eles enfrentam na hora de visualizar uma oferta, visualizar uma promoção, aplicar isso, conseguir vender, passar isso para o cliente, enfim. Se tiver qualquer insumo em relação a isso também.
+
+[Palestrante 3]
+Eu acredito que o pessoal se adaptou bem à ferramenta, né? Mais vezes a questão do... A nossa dificuldade é a questão da criação dos combos.
+
+Então, se a gente tem uma oferta, por exemplo, onde envolve o catback, ou envolve bonificação, se torna difícil a explicação para eles, porque a ferramenta fica limitada no cadastro. Então, eu acredito que fazendo as mudanças que são necessárias, referente a bonificação, a cashback, a gente é mais flexível ali, a gente vai conseguir ter uma informação mais aberta ali com a nossa equipe. Então, a gente consegue explicar como ele vai estar de acordo com a artificação, o que acontece hoje.
+
+A indústria, ela compartilha, por exemplo, um combo de bonificação. Comprei tantas unidades e ganha isso. A indústria compartilha com a equipe nesse formato.
+
+Só que aí a gente vai lá para a gente cadastrar, não é nesse formato. Então, a gente tem todo esse trabalho de mudar a dinâmica da ação por conta do sistema. Então, eu acredito que, sim, dentro da ferramenta, eu acho que eles utilizam bem do dia a dia, quando dá oferta, mas mesmo essa questão dos combos ali que fica um pouco mais limitado e acaba atrapalhando, às vezes, a performance da equipe.
+
+[Palestrante 1]
+Entendi. Então, em relação... O que eu estou entendendo da bonificação é realmente...
+
+Posso acrescentar um detalhe, Lucas?
+
+[Palestrante 2]
+Vou acrescentar no que a Kesa falou. Por exemplo, eu tenho vários áudios aqui, se você quiser ver, da equipe. Tem uma promoção que se o cara comprar 10 itens, ele pode escolher entre os 10 itens para ganhar duas unidades.
+
+Então, aí você já entende o que o Next Final faz. E o que eu vou fazer? Eu vou criar 10 promoções.
+
+E aí a lâmina está lá. Compre entre os 10 itens e escolha entre eles duas unidades para bonificar. Aí o vendedor, quando vai abrir o pocket, ele vai abrir a promoção flexível, vai estar lá.
+
+Combo 10 mais 2, 1. 10 mais 2, 2. 10 mais 2, 3.
+
+10 mais 2... Ou 10 mais 2, mais água de coco. 10 mais 2...
+
+O cara tem que entender. Ele vai ter, tipo assim, muita poluição, porque eu estou aqui para atender a demanda, tenho que criar 500 combos. E quando ele abre a promoção flexível, ele vai ter que descer um monte, porque ele está lá vendo 10 de um, 10 de outro, 10 de outro, 10 de outro...
+
+[Palestrante 6]
+Então, podia ser uma única... O cara fica brincando com a Cass, aqui.
+
+[Palestrante 2]
+Cass, eu não estou entendendo o que ela diz. Eu coloquei 10, mas não estou achando para bonificar a bolacha. Daí tem que explicar.
+
+Não, é que a bolacha vai ter um combo só da bolacha. Você tem que achar. Entendeu?
+
+[Palestrante 1]
+Entendi. E em relação a essas regras de bonificação, também. Ela é escalável, de alguma forma?
+
+Por exemplo, 10 ganha 2. 20 ganha 4. Ou ganhou 2, e é sempre 2.
+
+Não interessa quantas unidades ele comprar dessa promoção.
+
+[Palestrante 3]
+Tem os dois formatos. Tanto fechado, quanto aberto. Ou acumulativo.
+
+A cada 10, ele vai ganhar. Múltiplos, né?
+
+[Palestrante 1]
+Quase como uma porcentagem. Em relação às ofertas, a forma como vocês cadastram as ofertas, hoje. Já está integrado, mas faz sentido.
+
+Tem alguma dificuldade nessa jornada, nas ofertas, especificamente. A oferta é praticamente um desconto progressivo. É escalável, com base na quantidade que o cliente está comprando.
+
+Para vocês, hoje. Existe algum ruído nessa jornada? Existe algo que vocês pensam que poderia ser diferente dentro desse fluxo de criação?
+
+Que ficaria mais fácil para explicar para o cliente? Não, está comprando 10 aqui, mas se você comprar 20, você vai ter esse benefício.
+
+[Palestrante 2]
+Acho que a oferta não tem muita informação. O único detalhe da oferta é que, por exemplo, hoje, nesse cenário, vamos supor assim, se eu quisesse, a cada vez que o cara vendesse o produto X, já ia bonificar o Y. A partir de X unidades, ele vai ganhar aquele preço, e aí ele já ganha X bonificado.
+
+A gente não tem como fazer isso na oferta. Nesse aspecto. E a oferta tem um detalhe que no combo, acho que na flexível não tem, deixa eu ver.
+
+Que a oferta não tem... No outro, na flexível e no combo, você tem uma trava de estoque que você consegue fazer. Na oferta não tem essa trava de estoque.
+
+[Palestrante 1]
+A oferta sempre usa o estoque disponível do produto.
+
+[Palestrante 2]
+Isso. Seria importante ter na oferta também, porque às vezes eu estou com uma validade ruim, ou eu quero liberar uma promoção só para 5 unidades, você entende? E eu não posso fazer isso na oferta hoje.
+
+[Palestrante 1]
+Até por questão de validade também. Eu estou com um produto aqui que tem o estoque.
+
+[Palestrante 2]
+Eu estou querendo ganhar uma unidade específica. Eu não consigo fazer isso pela oferta hoje. E se eu estava a flexível, fica aquele...
+
+Eu estou usando a flexível, não sei se essa é a intenção dela, se for, beleza, eu uso a flexível. Mas como a oferta eu consigo fazer escalonado, você entende? Eu poderia liberar um estoque escalonando, já queimando a margem desde a primeira, mas escalonando, mas eu quero só vender o estoque X.
+
+Não tem esse detalhe.
+
+[Palestrante 1]
+Sim, sim, mas faz total sentido.
+
+[Palestrante 2]
+Se eu vender e bonificar o mesmo item. Por exemplo, eu fiz uma oferta da Nergidex. Se o cara atingir ali, comprou a quantidade mínima da oferta que eu coloquei, ele já bonifica 10.
+
+Se ele comprou o colírio, também já ganha o colírio. Nesse caso da oferta, eu também atenderia, porque eu conseguiria fazer já várias promoções de comprar um e ganhar o outro, e essas coisas do tipo. Seria só esse detalhe da oferta.
+
+Mas hoje a gente tem que usar a flexível para fazer isso, só que a flexível não permite a duplicação. Tem mais uma flexível e isso, exato. É mais esse detalhe só da oferta.
+
+[Palestrante 1]
+Não, mas perfeito. É isso mesmo que a gente gostaria de entender. A configuração ali do escalável da oferta é tranquila.
+
+[Palestrante 2]
+Sim, funciona bem.
+
+[Palestrante 1]
+Certo, certo. Bom, gente, do meu lado, eu cobri tudo que eu tenho aqui de perguntas para trazer para vocês, mas eu deixo o espaço aberto para caso vocês tenham outras questões sobre a ação comercial que a gente acabou não tratando aqui. Não vou ter, mas o espaço é de vocês seguirem à vontade.
+
+Se vocês não tiverem nada em mente agora, os dois têm meu contato, acho que o Matheus hoje é o último dia na Domingo Brasil, mas a Kezia também já tem meu contato. Pode passar pelo WhatsApp ali, a gente está analisando tudo isso porque realmente a gente quer fazer um novo grupo de mecanismos de promoções e ações comerciais de modo geral que converse com o dia-a-dia das distribuidoras. Hoje a gente tem aquelas regras ali que estão desde que surgiram basicamente, a gente foi implementando uma coisa ou outra, botando integração de combo, permitindo limitação de estoque nas flexíveis, que antes também não tinha limitação também por SKU, enfim, então a gente foi acrescentando coisas, só que a gente nunca parou para revisar o que já existia, o que já estava, o que já era legado.
+
+Agora a gente está realmente construindo algo do zero e a gente quer ouvir todos os parceiros para a gente ter um um grupo de mecanismos que atenda de fato a necessidade de vocês.
+
+[Palestrante 2]
+Acho que da minha parte é isso, não tenho nada para passar, não sei se a Cassie tem algo para falar, acredito que tudo que tinha nas minhas orientações é isso.
+
+[Palestrante 3]
+Isso mesmo, já tratamos.
+
+[Palestrante 1]
+Perfeito, gente, então agradecer imensamente pelo tempo de vocês, por todos os insumos, foi bem enriquecedor, foi bem importante a gente entender também essa, acho que realmente todos os parceiros que a gente conversou são os que trabalham mais fortemente com essa questão da bonificação e consequentemente acabam sentindo mais essa dor da rigidez que a gente tem hoje no formato de bonificar os itens dentro da plataforma.
+
+A gente está trabalhando, agora a gente está fechando esse ciclo de pesquisa, agora em abril, e vamos começar a trabalhar na reconstrução ao longo de maio, com expectativa de entre junho e julho a gente está testando já isso com os parceiros para virar a chave no segundo semestre. Se no meio do tempo surgir qualquer outro comentário ou outra questão, podem me chamar, podem passar o link, estamos de ouvidos abertos para a gente conseguir fazer algo que realmente resolve o problema.
+
+[Palestrante 3]
+Ótimo, obrigada, Lucas, obrigada Henrique, qualquer coisa também que vocês precisarem, estou à disposição.
+
+[Palestrante 1]
+Obrigado, gente, até nem aproveitei o Henrique, que também é gerente de produtos aqui, ele entrou mais para acompanhar mesmo e me ajudar nas anotações, mas agora a gente vai sentar, conversar, pegar tudo que foi mapeado aqui e vamos fazer essa análise final.
+
+[Palestrante 2]
+Valeu, Lucas, valeu Henrique, eu já tenho qualquer coisa aqui.
+
+[Palestrante 1]
+Tchau, tchau. Boa sorte aí nas próximas jornadas e nos falamos.
+
+[Palestrante 2]
+Valeu, Lucas, estamos juntos, a gente se fala.
