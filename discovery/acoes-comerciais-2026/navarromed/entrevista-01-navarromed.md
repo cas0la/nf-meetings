@@ -67,9 +67,15 @@ observador: Rafael Gazzola
 - **~80% das ações criadas** utilizam o formato de **Oferta**, usadas para criar "tabelas de negociação" personalizadas.
 - **Ofertas diárias:** criam ofertas com vigência de apenas 1 dia para habilitar o envio de pedidos onde o cliente não tem verba, mas o vendedor precisa enviar o pedido.
 - **Ações recorrentes — Venda Mais Neo Química:** demandam altíssima manutenção. Como a promoção flexível não é editável, precisam criar uma nova versão toda semana para alterar condições de vigência. A ação tem mutabilidade semanal.
-- **Cupons:** pouco ou não utilizados. Acreditam que a baixa adoção se deve à falta de entendimento sobre o recurso. Há percepção de que o cupom de desconto pode comprometer a margem dos pedidos.
-  - Durante a entrevista, foi feita a **demonstração do cupom 'Crédito Flex'**, que conversa com o formato de cashback que gostariam de trabalhar.
-  - ⚠️ **Ponto de validação:** confirmar se o cupom 'Crédito Flex' gera o valor em cima do preço dos produtos **sem ou com imposto**, e se considera o preço da **oferta ou da tabela** (mesmo quando uma oferta está aplicada).
+- **Cupons:** pouco ou não utilizados. Acreditam que a baixa adoção se deve à falta de entendimento sobre o recurso. Há percepção de que o cupom de desconto pode comprometer a margem dos pedidos. Tentaram usar, não deram certo e abandonaram.
+  - Durante a entrevista, foi feita a **demonstração ao vivo do cupom 'Crédito Flex'**, que conversa com o formato de cashback que gostariam de trabalhar. Como funciona:
+    - O crédito é gerado com base no valor do carrinho (ex: 10% do valor do carrinho).
+    - Pode ser configurado por **produto específico** (se o produto X estiver no carrinho, gera crédito com base naquele produto) ou por **categoria/lista importada**.
+    - Distinção entre **"Gerar Crédito"** (produto no carrinho gera crédito) e **"Disponível para Troca"** (produtos que o cliente pode resgatar com o crédito gerado).
+    - O crédito é válido **apenas no pedido atual** — não acumula para pedidos futuros.
+    - O crédito é calculado sobre o **preço que estiver no carrinho** (oferta, se aplicada; tabela, se não).
+    - O preço base inclui **imposto (preço final/ST)** — varia por estado: SP tem crédito sobre preço cheio; PR, MG e RJ têm Substituição Tributária.
+  - ✅ **Validação parcialmente feita em reunião:** o Crédito Flex pega o preço da oferta (quando aplicada) e inclui imposto no cálculo. Ponto pendente: confirmar comportamento específico por regional com o time de ICS/Pedro.
 - **Produto exclusivo com condição de mix:** quando recebem produto da indústria para oferecer com exclusividade, precisam criar uma promoção flexível (limitada a 250 SKUs distintos) e associar a uma venda mínima. O problema é que essa ação pode ser **burlada com a compra de 1 único produto**, comprometendo 100% o objetivo — já que a estratégia envolve diversidade de mix.
 - Alguns **vendedores têm dificuldade para encontrar promoções** de um produto, optando por usar ofertas. Entretanto, as ofertas **não possuem limitação de estoque**.
 
@@ -79,7 +85,7 @@ observador: Rafael Gazzola
 > *Pontos de dor, ideias espontâneas de melhoria, práticas fora da plataforma*
 
 **Dificuldades operacionais:**
-- **Grupos manuais poluídos:** possuem uma lista extremamente acumulada de grupos, pois eles não têm parametrização de vigência — não podem ser editados ou eliminados, gerando sobreposição constante. Também não há visibilidade fácil (relatório ou painel) sobre quais clientes/vendedores fazem parte de cada grupo. *(Ponto levantado fora do tópico principal)*
+- **Grupos manuais poluídos:** possuem uma lista extremamente acumulada de grupos, pois eles não têm parametrização de vigência — não podem ser editados ou eliminados, gerando sobreposição constante. A acumulação de grupos já está causando **lentidão nas consultas da plataforma** — qualquer query demora. Também não há visibilidade fácil (relatório ou painel) sobre quais clientes/vendedores fazem parte de cada grupo. Pedro (ICS) sinalizou que um relatório de grupos está em desenvolvimento. Solução pedida: **validade nos grupos** (ex: grupo criado para esta semana expira automaticamente ao fim da vigência). *(Ponto levantado fora do tópico principal)*
 - **Sem visibilidade de desempenho das campanhas:** não sabem quem mais vendeu, quem não vendeu, etc.
 - **Gostariam de previsibilidade de faturamento:** ter informação sobre o potencial comercial de uma oferta antes de publicá-la.
 - **Alerta de interpolação entre ofertas:** gostariam que a plataforma alertasse quando as regras de produtos em diferentes ofertas se sobrepõem.
@@ -91,7 +97,7 @@ observador: Rafael Gazzola
 - **Cross-sell:** gostariam de sugestões de produtos mais vendidos para o cliente, mais vendidos na regional, ou que a distribuidora queira promover.
 - **Destaque de novas ações:** hoje o cliente não tem nenhum gatilho que direcione a atenção ao lançamento de novas ações durante a jornada de compra.
 - **Gatilhos de proximidade de oferta:** o cliente perde oportunidades de escalonamento por não saber o quanto está próximo de atingir a condição.
-- **Fluxo de aprovação de carrinho:** para situações onde não há verba de negociação mas a margem está dentro do aceitável, gostariam de um fluxo de aprovação/liberação sem precisar criar ofertas e grupos pontuais. *(Ponto levantado fora do tópico principal)*
+- **Fluxo de aprovação de carrinho:** para situações onde não há verba de negociação mas a margem está dentro do aceitável (ex: produto com validade ruim que precisa sair com margem negativa), hoje precisam criar uma oferta + grupo pontual só para liberar a venda. Gostariam de um fluxo de aprovação hierárquico: vendedor solicita → liderança aprova → pedido liberado, sem criação de ação pontual. Rafael Gazzola sugeriu o modelo durante a entrevista. Lucas nomeou o conceito como **"gourmetização do Venda"**. *(Ponto levantado fora do tópico principal)*
 
 **Percepção de mercado:**
 - Veem a **Distrimed como um player que está investindo fortemente em inovação** e a citam como referência de experiência do usuário.
@@ -111,9 +117,12 @@ observador: Rafael Gazzola
 > *Uso atual de bonificação, regras, comunicação ao time de vendas e cliente final*
 
 - Ações de bonificação são trabalhadas por **algumas indústrias parceiras, mas de forma rara**.
-- A **Navarromed opera com um modelo próprio de bonificação:** gera um **saldo mensal** para o cliente com base em uma **meta de valor de compra**.
-  - Exemplo: cliente que compra R$ 100.000 no mês recebe 5% de bônus em saldo, utilizável no mês seguinte para adquirir outros produtos.
-- Esse modelo é **diferente da bonificação por produto** explorada no roteiro — opera na lógica de fidelidade/resultado por volume financeiro.
+- A **Navarromed opera com um modelo próprio de bonificação:** gera um **saldo mensal** para o cliente com base em uma **meta de valor de compra** (contrato de repasse).
+  - Exemplo: cliente com meta de R$ 100.000/mês → se atingir, recebe bonificação apurada no fim do mês e liberada no mês seguinte.
+  - **Critérios múltiplos:** além da meta de valor, considera inadimplência na rede e margem. Se o cliente comprar R$ 99.000 (meta R$ 100.000), **não recebe bonificação** — lógica de tudo ou nada.
+  - A bonificação é concedida **ao cliente final**, não ao vendedor — evita dupla contagem com contratos de repasse por pedido já existentes.
+- Esse modelo é **diferente da bonificação por produto** explorada no roteiro — opera na lógica de fidelidade/resultado por volume financeiro mensal.
+- Ações de bonificação por produto da indústria também existem, mas são pontuais e pouco frequentes.
 - Rafael complementa: deve-se considerar também as **características e situação do cliente** (histórico de relacionamento, perfil de compra) para concessão ou não de bonificações — não apenas regras fixas.
 
 ---
@@ -122,6 +131,9 @@ observador: Rafael Gazzola
 > *Temas adicionais levantados, indicações de contato, impressão geral*
 
 - Sessão rica, com a Navarromed trazendo espontaneamente benchmarks (Distrimed) e sugestões de funcionalidades novas (compra coletiva).
+- **Origem da ideia de Compra Coletiva:** a sugestão partiu do Thiago Esteves (Navarromed), não de Lucas — foi repassada ao Rafael por Henrique Begrow antes da reunião.
+- **Demonstração ao vivo do DistriMed:** Thiago Mendonça compartilhou a tela mostrando o sistema da DistriMed em funcionamento, incluindo a Compra Coletiva já rodando em Minas Gerais — demonstração espontânea durante a sessão.
+- **Projeto Pharlab:** Rafael Gazzola revelou projeto em andamento com a indústria Pharlab para integração de sell-out com redes de farmácia. Iniciando validação com redes do Rio de Janeiro; meta de 100+ redes para setembro. Lucas ofereceu piloto com a Navarromed (São Paulo). Escopo: uma vez desenvolvida a mecânica, será replicada para todos os parceiros.
 - Vários pontos levantados transcendem o escopo das ações comerciais isoladas e tocam em UX, comunicação embarcada e inteligência de negócios.
 
 ---
@@ -133,13 +145,15 @@ observador: Rafael Gazzola
 - **Navarromed:** *"Vemos a Distrimed investindo muito em inovação. Eles já têm compra coletiva, cashback, tudo isso."*
 - **Navarromed:** *"No Distrimed, o preço que aparece no produto é sempre a melhor condição. Aqui a gente pode deixar de vender porque o cliente não vê o preço promocional."*
 - **Navarromed:** *"Gostaríamos de centralizar tudo dentro da Nexfar. Hoje precisamos criar tudo duas vezes."*
+- **Thiago Esteves (Navarromed):** *(ao encerrar, sobre Rafael)* *"Não sei se o Gasola tem mais algum ponto. Valeu, valeu, turma. Obrigado pelo treino com vocês."*
+- **Rafael Gazzola (Nexfar):** *(sobre projeto Pharlab)* *"A gente vendeu o projeto para a Pharlab, eles estão custeando o projeto. Uma vez desenvolvida a mecânica, no dia seguinte a gente vai replicar para geral."*
 
 ---
 
 ## Observações do Facilitador
 > *Perspectiva do Lucas — impressões gerais, contexto implícito, temas que não fluíram bem*
 
-- A demonstração do cupom 'Crédito Flex' durante a entrevista foi um ponto de alto interesse — a distribuidora não conhecia o recurso e viu valor imediato. Isso reforça a hipótese de baixo conhecimento sobre os tipos de oferta disponíveis.
+- A demonstração do cupom 'Crédito Flex' durante a entrevista foi um ponto de alto interesse — a distribuidora não conhecia o recurso e viu valor imediato. A demonstração ao vivo respondeu parte das perguntas pendentes: o crédito usa o preço que estiver no carrinho (oferta quando ativa) e inclui imposto. Isso reforça a hipótese de baixo conhecimento sobre os tipos de oferta disponíveis.
 - O tema de **grupos manuais** e **fluxo de aprovação de carrinho** surgiu fora do roteiro mas com intensidade — indica dores operacionais que vão além das ações comerciais.
 - A referência à Distrimed foi recorrente e demonstra que a Navarromed está atenta ao mercado e tem expectativas altas de inovação da plataforma.
 - O modelo de bonificação da Navarromed (saldo mensal por meta de valor) é diferente da bonificação por produto — pode ser um caso de uso distinto a considerar no escopo.
@@ -204,7 +218,7 @@ observador: Rafael Gazzola
 - H5: A ausência de **dados de desempenho** faz com que boas ações sejam descontinuadas e ruins sejam repetidas — introduzir métricas pode mudar o comportamento de uso da plataforma.
 
 ### Tópicos pendentes / a aprofundar
-- Confirmar comportamento do cupom 'Crédito Flex': preço com ou sem imposto? Preço de oferta ou tabela?
+- ~~Confirmar comportamento do cupom 'Crédito Flex': preço com ou sem imposto? Preço de oferta ou tabela?~~ ✅ Parcialmente respondido em reunião: usa preço do carrinho (oferta se ativa); inclui imposto (ST por regional). Confirmar comportamento específico por estado com time ICS/Pedro.
 - Alinhar internamente os conceitos de cashback vs. crédito imediato antes de apresentar soluções ao cliente.
 - Investigar em outras entrevistas se a referência à Distrimed é recorrente ou específica da Navarromed.
 - Avaliar o escopo do modelo de bonificação por meta de valor (saldo mensal) — até onde a plataforma deve suportar esse caso.
@@ -212,5 +226,5 @@ observador: Rafael Gazzola
 
 ---
 
-*Ata gerada em 14/04/2026*
-*Arquivo: discovery/acoes-comerciais-2026/entrevista-01-navarromed.md*
+*Ata gerada em 14/04/2026 — Revisada em 30/04/2026 com base na transcrição de áudio*
+*Arquivo: discovery/acoes-comerciais-2026/navarromed/entrevista-01-navarromed.md*

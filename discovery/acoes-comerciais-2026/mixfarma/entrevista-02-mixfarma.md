@@ -8,7 +8,6 @@ projeto: Reestruturação de Ofertas Nexfar — Ações Comerciais 2026
 participantes:
   - Lucas Casanova — Nexfar — PO / Facilitador
   - Rafael Gazzola — Nexfar — CEO / Observador
-  - Felipe Caiuby — Mixfarma — Cliente
   - Danilo Sotero — Mixfarma — Cliente
   - Lyandra Torres — Mixfarma — Cliente
 cliente: Mixfarma
@@ -34,7 +33,6 @@ observador: Rafael Gazzola
 |------|---------|---------------------|
 | Lucas Casanova | Nexfar | PO / Facilitador |
 | Rafael Gazzola | Nexfar | CEO / Observador |
-| Felipe Caiuby | Mixfarma | Cliente |
 | Danilo Sotero | Mixfarma | Cliente |
 | Lyandra Torres | Mixfarma | Cliente |
 
@@ -46,7 +44,9 @@ observador: Rafael Gazzola
 > *Papel do participante, contexto da distribuidora, tom da conversa*
 
 - O e-commerce é uma **realidade recente** para a Mixfarma, o que explica o estágio inicial de uso de alguns recursos da plataforma.
-- Criam ações comerciais **diariamente** — o volume operacional é alto.
+- Criam ações comerciais **diariamente** — trabalham com muitos laboratórios, e a cada dia surge uma nova ação para ser cadastrada.
+- **Danilo Sotero** é responsável pelo cadastro operacional das ações — incluindo os casos mais complexos como a Neo Química. **Lyandra Torres** atua na área operacional e identificou o problema de preço na bonificação (ver seção 6).
+- **Felipe Caiuby** estava previsto na agenda mas não participou da sessão.
 
 ---
 
@@ -57,6 +57,8 @@ observador: Rafael Gazzola
 - O formato de cadastro de promoções flexíveis no Result é **muito similar ao da Nexfar**, mas com algumas limitações — o Result tem opções mais flexíveis de parametrização de requisitos de quantidade/SKUs distintos.
 - Gostariam de **centralizar a operação na Nexfar**, mas como a Nexfar não escreve no ERP, o vínculo das ações precisa ser feito de forma **manual** — o que inviabiliza a centralização no estado atual.
 - A consequência prática é que, como Combos e Ofertas já têm integração, o caminho mais viável visto pela Mixfarma é **implementar a Promoção Flexível nessa mesma jornada** (integrada ao Result), em vez de migrar tudo para a Nexfar.
+- **Mecanismo de Spread (Reposição):** a Mixfarma possui uma amarração interna chamada "Spread" para reposição — ela exige o **número da promoção gerado pela Nexfar** para realizar o vínculo. Por isso, o cadastro no Result precisa acontecer primeiro (para gerar o código), e esse código é então associado na Nexfar. Esse é o motivo técnico pelo qual a integração via Result → Nexfar (não o inverso) é a jornada preferida.
+- **Ricardo** é o responsável pelo ERP Result na Mixfarma — já confirmou que pode adaptar o sistema para suportar os mesmos mecanismos da Nexfar assim que a integração da Flexível for disponibilizada.
 
 ---
 
@@ -92,8 +94,11 @@ observador: Rafael Gazzola
 > *Uso atual de bonificação, regras, comunicação ao time de vendas e cliente final*
 
 - Para a Mixfarma, **faz sentido ter uma ação do tipo bonificação** na plataforma.
+- **Problema de preço na bonificação:** quando um produto é bonificado via Flexível, a bonificação fica atrelada ao preço da tabela negociada — **não é possível definir um preço específico para o item bonificado** na Nexfar. A Mixfarma resolveu isso parcialmente cadastrando o preço específico no Result (feito pelo Ricardo), e a Nexfar sobrescreve o preço quando o pedido chega via integração.
+- **Caso concreto — Neo Química (Torsilax / Decongex):** ação em que a compra de 20 unidades do Torsilax bonifica 4 unidades do Decongex. Problema identificado por Lyandra: se o cliente compra 40 unidades do Torsilax, a bonificação continua sendo apenas 4 Decongex — **sem escalonamento**. O esperado seria: a cada 20 unidades, 4 bonificados (acumulativo).
 - Entretanto, destacam que o **formato atual não é escalável**: não é possível definir que a cada X unidades compradas, Y será bonificado — a lógica de escalonamento por volume é inexistente.
 - O mecanismo de **escalonamento de bonificação** também seria uma melhoria válida para os tipos **Flexível e Combo**, expandindo as possibilidades de parametrização além da bonificação isolada.
+- **Legrand:** outra indústria com ação de bonificação similar, mas com ações de duração de 2 meses (menos frequente que a Neo Química — cadastro único, menos trabalhoso).
 
 ---
 
@@ -108,8 +113,9 @@ observador: Rafael Gazzola
 ## Citações Relevantes
 > *Falas marcantes — transcrever o mais fielmente possível*
 
-- **Mixfarma:** *"Como já fazemos tudo pelo Result para Combos e Ofertas, faz mais sentido vocês trazerem a Flexível para essa mesma jornada do que a gente mudar tudo para a Nexfar."*
-- **Mixfarma:** *"Para cadastrar as ações da Neo Química, às vezes investimos o dia inteiro. Toda semana."*
+- **Danilo Sotero (Mixfarma):** *"Para cadastrar as ações da Neo Química, às vezes investimos o dia inteiro. Toda semana."*
+- **Danilo Sotero (Mixfarma):** *"Como já subimos o combo, já subimos a oferta, o que está faltando é a flexível. A gente preferia que a integração viesse junto dessa reformulação."*
+- **Lyandra Torres (Mixfarma):** *"A indústria compartilha o combo de bonificação — comprei tantas unidades e ganha isso. Só que aí a gente vai cadastrar e não é nesse formato. A gente tem todo esse trabalho de mudar a dinâmica da ação por conta do sistema."*
 
 ---
 
@@ -165,5 +171,5 @@ observador: Rafael Gazzola
 
 ---
 
-*Ata gerada em 14/04/2026*
-*Arquivo: discovery/acoes-comerciais-2026/entrevista-02-mixfarma.md*
+*Ata gerada em 14/04/2026 — Revisada em 30/04/2026 com base na transcrição de áudio*
+*Arquivo: discovery/acoes-comerciais-2026/mixfarma/entrevista-02-mixfarma.md*
